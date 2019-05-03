@@ -1,0 +1,449 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/airflow/hooks/http_hook.py" timestamp="1556003366280">
+        <mark key="'" line="83" column="8" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" timestamp="1556075355297">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
+        <mark key="'" line="0" column="44" />
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/repository/helpers.py" timestamp="1554800012192">
+        <mark key="'" line="1" column="70" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/span/span/api/v1/user.py" timestamp="1554797572411">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="25" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="91" column="25" />
+      </file>
+      <file name="$USER_HOME$/span/broker/common/pubsub_consumer.py" timestamp="1556847042942">
+        <mark key="'" line="5" column="44" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="62" />
+      </file>
+      <file name="$USER_HOME$/span/docker-compose.alembic.yml" timestamp="1556861605793">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/tests/airflow/test_run_pipeline_operator.py" timestamp="1556007403095">
+        <mark key="'" line="36" column="49" />
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
+      </file>
+      <file name="$USER_HOME$/span/launch_dev.sh" timestamp="1556012476207">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/requests/sessions.py" timestamp="1556002471997">
+        <mark key="'" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/http/client.py" timestamp="1555998701200">
+        <mark key="'" line="81" column="12" />
+      </file>
+      <file name="$USER_HOME$/span/span/api/helper.py" timestamp="1556865481038">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/span/airflow_plugin/span_plugin.py" timestamp="1556007142520">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="75" column="9" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/app.py" timestamp="1556861574115">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/tests/conftest.py" timestamp="1556000253966">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/airflow/span_plugin.py" timestamp="1555995019552">
+        <mark key="'" line="101" column="64" />
+      </file>
+      <file name="$USER_HOME$/span/docker-compose.develop.yml" timestamp="1556861618002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" timestamp="1556853777339">
+        <mark key="[" line="443" column="63" />
+        <mark key="]" line="443" column="65" />
+        <mark key="^" line="443" column="65" />
+        <mark key="." line="443" column="65" />
+      </file>
+      <file name="$USER_HOME$/span/tests/api/test_model.py" timestamp="1555995016066">
+        <mark key="'" line="56" column="34" />
+      </file>
+      <file name="$USER_HOME$/span/entrypoint.sh" timestamp="1556012881946">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/span/spanitor/spanitor.py" timestamp="1556860926613" />
+      <file name="$USER_HOME$/span/span/domain/exceptions.py" timestamp="1555382798052">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="108" column="40" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/tests/fixtures/misc.py" timestamp="1556002010379">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/span/Dockerfile" timestamp="1556009327175">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/api/v1/pipeline.py" timestamp="1556790756786">
+        <mark key="'" line="120" column="11" />
+      </file>
+      <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="95" column="18" />
+        <mark key="]" line="95" column="37" />
+        <mark key="^" line="95" column="37" />
+        <mark key="." line="95" column="37" />
+      </file>
+      <file name="$USER_HOME$/span/requirements-dev.txt" timestamp="1555995352367">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/requirements.txt" timestamp="1556862463725">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/domain/services.py" timestamp="1556863164387">
+        <mark key="'" line="228" column="27" />
+        <mark key="[" line="260" column="78" />
+        <mark key="]" line="260" column="78" />
+        <mark key="^" line="260" column="78" />
+        <mark key="." line="260" column="78" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/repository/model_server.py" timestamp="1556863454546">
+        <mark key="'" line="66" column="29" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
+        <mark key="^" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/span/config.template.hcl" timestamp="1556861634694">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/tests/domain/test_model_service.py" timestamp="1554797579088">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="47" />
+        <mark key="^" line="28" column="56" />
+        <mark key="." line="28" column="47" />
+      </file>
+      <file name="$USER_HOME$/span/tests/airflow/test_create_pipeline_operator.py" timestamp="1556007280583">
+        <mark key="'" line="2" column="50" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/airflow/models/__init__.py" timestamp="1555487672625">
+        <mark key="'" line="2444" column="49" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" timestamp="1556863460022">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="19" column="95" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/infrastructure/cluster.py" timestamp="1556782557813">
+        <mark key="'" line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/airflow/operators/python_operator.py" timestamp="1555489769033">
+        <mark key="'" line="115" column="15" />
+      </file>
+      <file name="$USER_HOME$/span/config_jsonschema.json" timestamp="1556861593285">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="0" filename="$USER_HOME$/span/entrypoint.sh" />
+      <jump line="28" column="14" filename="$USER_HOME$/span/entrypoint.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/span/entrypoint.sh" />
+      <jump line="30" column="15" filename="$USER_HOME$/span/entrypoint.sh" />
+      <jump line="14" column="10" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
+      <jump line="12" column="16" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="114" column="26" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="79" column="7" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="119" column="25" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="537" column="38" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="401" column="37" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="402" column="41" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="444" column="13" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="422" column="4" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="354" column="8" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="437" column="22" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="62" column="37" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="120" column="24" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="367" column="84" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
+      <jump line="146" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="152" column="44" filename="$USER_HOME$/span/span/api/v1/pipeline.py" />
+      <jump line="4" column="22" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="18" column="11" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="41" column="13" filename="$USER_HOME$/span/span/infrastructure/cluster.py" />
+      <jump line="403" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="407" column="58" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" />
+      <jump line="120" column="11" filename="$USER_HOME$/span/span/api/v1/pipeline.py" />
+      <jump line="122" column="12" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="116" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="147" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="5" column="44" filename="$USER_HOME$/span/broker/common/pubsub_consumer.py" />
+      <jump line="6" column="51" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="117" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="471" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="35" column="51" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="511" column="12" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="0" column="14" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="28" column="0" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="95" column="18" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="131" column="35" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="89" column="55" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="109" column="79" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="104" column="31" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="87" column="16" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="99" column="19" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="85" column="63" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="12" column="38" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="69" column="36" filename="$USER_HOME$/span/spanitor/spanitor.py" />
+      <jump line="436" column="8" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="66" column="56" filename="$USER_HOME$/span/span/api/helper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/api/helper.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/span/span/api/helper.py" />
+      <jump line="423" column="4" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="123" column="35" filename="$USER_HOME$/span/span/domain/services.py" />
+      <jump line="104" column="17" filename="$USER_HOME$/span/span/domain/services.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="134" column="4" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="107" column="62" filename="$USER_HOME$/span/span/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/app.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/span/span/app.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/span/span/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/config_jsonschema.json" />
+      <jump line="111" column="13" filename="$USER_HOME$/span/config_jsonschema.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/docker-compose.alembic.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/docker-compose.develop.yml" />
+      <jump line="27" column="0" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/config.template.hcl" />
+      <jump line="49" column="75" filename="$USER_HOME$/span/config.template.hcl" />
+      <jump line="19" column="0" filename="$USER_HOME$/span/requirements.txt" />
+      <jump line="420" column="14" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="229" column="27" filename="$USER_HOME$/span/span/domain/services.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="434" column="43" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="1" column="49" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" />
+      <jump line="66" column="29" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>self.</text>
+      </register>
+      <register name="-" type="4">
+        <text>self.</text>
+      </register>
+      <register name="/" type="4">
+        <text>boto</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9waXBlbGluZV9ydW4ocnVuX2lkPXJ1bl9pZCkgICMgY2hlY2sgaWYgcnVuIGV4aXN0cwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ1Y2tldF9uYW1lID0gYnVja2V0X25hbWUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXNlIHRoZSBhY3R1YWwgSlNPTiBmaWxlCiAgICAgICAgY2xpZW50ID0gc3RvcmFnZS5DbGllbnQuZnJvbV9zZXJ2aWNlX2FjY291bnRfanNvbigiL2FwcC9zcGFuLXN0YWdpbmctMTc1NDY0ZDFkNzQ1Lmpzb24iKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aHR0cGxpYjI9PTAuMTIuMwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE1vZGVsQXJ0ZWZhY3ROb3RGb3VuZEVycm9yLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIERhdGFiYXNlTm90QXZhaWxhYmxlRXJyb3IsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>132</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>boto</last-search>
+      <last-offset />
+      <last-pattern>boto</last-pattern>
+      <last-replace>model_server_dao</last-replace>
+      <last-substitute>ModelServerDAO</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>to_</entry>
+        <entry>self.metadata</entry>
+        <entry>====</entry>
+        <entry>===</entry>
+        <entry>db</entry>
+        <entry>db\.</entry>
+        <entry>execute</entry>
+        <entry>HTTPResponse</entry>
+        <entry>datetime</entry>
+        <entry>Session</entry>
+        <entry>Response</entry>
+        <entry>itor</entry>
+        <entry>_make_job</entry>
+        <entry>spanitor</entry>
+        <entry>artefact</entry>
+        <entry>urllib</entry>
+        <entry>rqeuests</entry>
+        <entry>\cheader</entry>
+        <entry>\cboto</entry>
+        <entry>boto</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/PipelineDAO.c.\(.*\)]/'\1']/g</entry>
+        <entry>%s/PipelineRunDAO.c.\(.*\)]/'\1']/g</entry>
+        <entry>%s/ModelServerDAO.c.\(.*\)]/'\1']/g</entry>
+        <entry>36</entry>
+        <entry>%s/PipelineDAO/pipeline_dao/g</entry>
+        <entry>%s/PipelineRunDAO/pipeline_run_dao/g</entry>
+        <entry>%s/ModelServerDAO/model_server_dao/g</entry>
+        <entry>q!</entry>
+        <entry>27</entry>
+        <entry>q</entry>
+        <entry>141</entry>
+        <entry>sw</entry>
+        <entry>ws</entry>
+        <entry>444</entry>
+        <entry>wq</entry>
+        <entry>260</entry>
+        <entry>434</entry>
+        <entry>w</entry>
+        <entry>144</entry>
+        <entry>132</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
