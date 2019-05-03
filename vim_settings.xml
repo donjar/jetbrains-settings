@@ -45,8 +45,19 @@
       <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/requests/sessions.py" timestamp="1556002471997">
         <mark key="'" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/span/span/api/v1/pipeline/common.py" timestamp="1556870453651">
-        <mark key="'" line="9" column="51" />
+      <file name="$USER_HOME$/span/span/api/v1/pipeline/common.py" timestamp="1556872375007">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="34" column="57" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="63" />
+      </file>
+      <file name="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" timestamp="1556872364700">
+        <mark key="'" line="306" column="18" />
+        <mark key="[" line="269" column="57" />
+        <mark key="]" line="269" column="60" />
+        <mark key="." line="269" column="60" />
+        <mark key="^" line="269" column="60" />
       </file>
       <file name="$USER_HOME$/span/tests/conftest.py" timestamp="1556000253966">
         <mark key="'" line="28" column="0" />
@@ -63,6 +74,13 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" timestamp="1556871993084">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="335" column="46" />
+        <mark key="]" line="335" column="51" />
+        <mark key="." line="335" column="51" />
+        <mark key="^" line="335" column="51" />
       </file>
       <file name="$USER_HOME$/span/entrypoint.sh" timestamp="1556012881946">
         <mark key="'" line="30" column="15" />
@@ -144,8 +162,8 @@
         <mark key="]" line="75" column="9" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/span/span/app.py" timestamp="1556861574115">
-        <mark key="'" line="86" column="0" />
+      <file name="$USER_HOME$/span/span/app.py" timestamp="1556871550700">
+        <mark key="'" line="231" column="27" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -176,10 +194,10 @@
       <file name="$USER_HOME$/span/span/api/v1/pipeline.py" timestamp="1556790756786">
         <mark key="'" line="120" column="11" />
       </file>
-      <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
+      <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1556871212783">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="95" column="18" />
-        <mark key="]" line="95" column="37" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="89" column="29" />
         <mark key="^" line="95" column="37" />
         <mark key="." line="95" column="37" />
       </file>
@@ -214,28 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="14" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="30" column="15" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="14" column="10" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
-      <jump line="12" column="16" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
-      <jump line="114" column="26" filename="$USER_HOME$/span/spanitor/spanitor.py" />
-      <jump line="79" column="7" filename="$USER_HOME$/span/spanitor/spanitor.py" />
-      <jump line="119" column="25" filename="$USER_HOME$/span/spanitor/spanitor.py" />
-      <jump line="537" column="38" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="401" column="37" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="402" column="41" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="444" column="13" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="422" column="4" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="354" column="8" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="437" column="22" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="62" column="37" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="120" column="24" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="367" column="84" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
-      <jump line="123" column="8" filename="$USER_HOME$/span/spanitor/spanitor.py" />
       <jump line="145" column="12" filename="$USER_HOME$/span/span/infrastructure/pipeline_run_manager/kubernetes_pipeline_run_manager.py" />
       <jump line="146" column="4" filename="$USER_HOME$/span/spanitor/spanitor.py" />
       <jump line="152" column="44" filename="$USER_HOME$/span/span/api/v1/pipeline.py" />
@@ -313,50 +309,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
       <jump line="19" column="18" filename="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" />
       <jump line="66" column="29" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
-      <jump line="9" column="51" filename="$USER_HOME$/span/span/api/v1/pipeline/common.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/span/span/api/v1/pipeline/common.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/common.py" />
+      <jump line="32" column="53" filename="$USER_HOME$/span/span/api/v1/pipeline/common.py" />
+      <jump line="277" column="10" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/span/span/api/v1/pipeline/common.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="299" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="330" column="23" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="289" column="18" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="76" column="18" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="256" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="291" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="333" column="8" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="134" column="6" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="96" column="8" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
+      <jump line="231" column="27" filename="$USER_HOME$/span/span/app.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/span/span/api/v1/pipeline/feature_pipeline.py" />
+      <jump line="306" column="18" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.</text>
+        <text>UUID(run_id))</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>UUID(run_id))</text>
       </register>
       <register name="/" type="4">
         <text>\/v1\/run</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9waXBlbGluZV9ydW4ocnVuX2lkPXJ1bl9pZCkgICMgY2hlY2sgaWYgcnVuIGV4aXN0cwo=</text>
+        <text encoding="base64">CgpAcm91dGVzLmdldCgiL3YxL3J1bi97cnVuX2lkfSIpCkBhaW9fYXV0aF9yZXF1aXJlZAphc3luYyBkZWYgZ2V0X3BpcGVsaW5lX3J1bihyZXF1ZXN0OiB3ZWIuUmVxdWVzdCwgcnVuX2lkOiBVVUlEKToKICAgICIiIgogICAgR2V0cyBwaXBlbGluZSBydW4gaW5mb3JtYXRpb24uCiAgICAtLS0KICAgIGdldDoKICAgICAgZGVzY3JpcHRpb246IEdldHMgcGlwZWxpbmUgcnVuIGluZm9ybWF0aW9uLgogICAgICBzZWN1cml0eToKICAgICAgLSBCZWFyZXJBdXRoOgogICAgICAtIE9BdXRoMjoKICAgICAgICAtIHJlYWQKICAgICAgICAtIHdyaXRlCiAgICAgIHBhcmFtZXRlcnM6CiAgICAgICAgLSBpbjogcGF0aAogICAgICAgICAgbmFtZTogcnVuX2lkCiAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgIHR5cGU6IFVVSUQKICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICBkZXNjcmlwdGlvbjogcGlwZWxpbmUgcnVuIGlkCiAgICAgIHJlc3BvbnNlczoKICAgICAgICAyMDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogT0sKICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246CiAgICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgIyBUT0RPIHdoYXQgdG8gZmlsbCBpbiBoZXJlPwogICAgICAgICAgICAgICAgICBydW5faWQ6IFVVSUQKICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogZGF0ZXRpbWUKICAgICAgICAgICAgICAgICAgdXBkYXRlZF9hdDogZGF0ZXRpbWUKICAgICAgICAgICAgICAgICAgcGlwZWxpbmU6IFBpcGVsaW5lQmFzZQogICAgICAgICAgICAgICAgICBzY3JpcHRfcGFyYW1ldGVyczogRGljdFtzdHIsIHN0cl0KICAgICAgICAgICAgICAgICAgbWV0cmljczogRGljdFtzdHIsIHN0cl0KICAgICAgICAgICAgICAgICAgcmVzb3VyY2VzOiBSZXNvdXJjZXMKICAgICAgICAgICAgICAgICAgc3RhdHVzOiBQaXBlbGluZVJ1blN0YXR1cwogICAgIiIiCiAgICB3aXRoIHJlcXVlc3QuYXBwWyJmbGFza19hcHAiXS5hcHBfY29udGV4dCgpOgogICAgICAgIGhhbmRsZXIgPSBtYWtlX2dldF9waXBlbGluZV9ydW4oYXBwX3BpcGVsaW5lX3NlcnZpY2UoY3VycmVudF9hcHApKQogICAgICAgIHJldHVybiBhd2FpdCBoYW5kbGVyKHJlcXVlc3Q9cmVxdWVzdCwgcGlwZWxpbmVfcHVibGljX2lkPXJ1bl9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1Y2tldF9uYW1lID0gYnVja2V0X25hbWUK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHByaW50KCdhYWFhYWFhJykKICAgIGF3YWl0IHByaW50KHJ1bl9pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpAcm91dGVzLnB1dCgiL3YxL3BpcGVsaW5lL3twaXBlbGluZV9wdWJsaWNfaWR9L3NlY3JldHMiKQpAYWlvX2F1dGhfcmVxdWlyZWQKQGV4cGVjdHNfanNvbl9haW8oVVBEQVRFX1BJUEVMSU5FX1NFQ1JFVFNfU0NIRU1BLCBhbGxvd19ub25lPVRydWUpCkBleHBlY3RzX2FyZ3NfYWlvKFBJUEVMSU5FX1BVQkxJQ19JRF9TQ0hFTUEpCmFzeW5jIGRlZiB1cGRhdGVfdHJhaW5pbmdfcGlwZWxpbmVfc2VjcmV0cyhyZXF1ZXN0OiB3ZWIuUmVxdWVzdCwgcGlwZWxpbmVfcHVibGljX2lkOiBzdHIpOgogICAgIiIiCiAgICBVcGRhdGUgdGhlIHNlY3JldHMgYXNzb2NpYXRlZCB3aXRoIGEgcGlwZWxpbmUuCiAgICAtLS0KICAgIHB1dDoKICAgICAgZGVzY3JpcHRpb246IFVwZGF0ZSB0aGUgc2VjcmV0cyBhc3NvY2lhdGVkIHdpdGggYSBwaXBlbGluZS4KICAgICAgc2VjdXJpdHk6CiAgICAgIC0gQmVhcmVyQXV0aDoKICAgICAgLSBPQXV0aDI6CiAgICAgICAgLSByZWFkCiAgICAgICAgLSB3cml0ZQogICAgICBwYXJhbWV0ZXJzOgogICAgICAgIC0gaW46IHBhdGgKICAgICAgICAgIG5hbWU6IHBpcGVsaW5lX3B1YmxpY19pZAogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICBkZXNjcmlwdGlvbjogcGlwZWxpbmUgcHVibGljIGlkCiAgICAgIHJlc3BvbnNlczoKICAgICAgICAyMDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogVGhlIHBpcGVsaW5lIHRoYXQgd2FzIHN1Y2Nlc3NmdWxseSB1cGRhdGVkLgogICAgICAgICAgY29udGVudDoKICAgICAgICAgICAgYXBwbGljYXRpb24vanNvbjoKICAgICAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgICAgICAtICRyZWY6ICIjY29tcG9uZW50cy9zY2hlbWFzL1BpcGVsaW5lIgogICAgIiIiCiAgICB3aXRoIHJlcXVlc3QuYXBwWyJmbGFza19hcHAiXS5hcHBfY29udGV4dCgpOgogICAgICAgIGhhbmRsZXIgPSBtYWtlX3VwZGF0ZV9waXBlbGluZV9zZWNyZXRzKGFwcF9waXBlbGluZV9zZXJ2aWNlKGN1cnJlbnRfYXBwKSkKICAgICAgICByZXR1cm4gYXdhaXQgaGFuZGxlcihyZXF1ZXN0PXJlcXVlc3QsIHBpcGVsaW5lX3B1YmxpY19pZD1waXBlbGluZV9wdWJsaWNfaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXNlIHRoZSBhY3R1YWwgSlNPTiBmaWxlCiAgICAgICAgY2xpZW50ID0gc3RvcmFnZS5DbGllbnQuZnJvbV9zZXJ2aWNlX2FjY291bnRfanNvbigiL2FwcC9zcGFuLXN0YWdpbmctMTc1NDY0ZDFkNzQ1Lmpzb24iKQo=</text>
+        <text encoding="base64">CgpAcm91dGVzLmdldCgiL3YxL3J1bi97cnVuX2lkfSIpCkBhaW9fYXV0aF9yZXF1aXJlZAphc3luYyBkZWYgZ2V0X3BpcGVsaW5lX3J1bihyZXF1ZXN0OiB3ZWIuUmVxdWVzdCwgcnVuX2lkOiBVVUlEKToKICAgICIiIgogICAgR2V0cyBwaXBlbGluZSBydW4gaW5mb3JtYXRpb24uCiAgICAtLS0KICAgIGdldDoKICAgICAgZGVzY3JpcHRpb246IEdldHMgcGlwZWxpbmUgcnVuIGluZm9ybWF0aW9uLgogICAgICBzZWN1cml0eToKICAgICAgLSBCZWFyZXJBdXRoOgogICAgICAtIE9BdXRoMjoKICAgICAgICAtIHJlYWQKICAgICAgICAtIHdyaXRlCiAgICAgIHBhcmFtZXRlcnM6CiAgICAgICAgLSBpbjogcGF0aAogICAgICAgICAgbmFtZTogcnVuX2lkCiAgICAgICAgICBzY2hlbWE6CiAgICAgICAgICAgIHR5cGU6IFVVSUQKICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICBkZXNjcmlwdGlvbjogcGlwZWxpbmUgcnVuIGlkCiAgICAgIHJlc3BvbnNlczoKICAgICAgICAyMDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogT0sKICAgICAgICAgIGNvbnRlbnQ6CiAgICAgICAgICAgIGFwcGxpY2F0aW9uL2pzb246CiAgICAgICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgICAgIyBUT0RPIHdoYXQgdG8gZmlsbCBpbiBoZXJlPwogICAgICAgICAgICAgICAgICBydW5faWQ6IFVVSUQKICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogZGF0ZXRpbWUKICAgICAgICAgICAgICAgICAgdXBkYXRlZF9hdDogZGF0ZXRpbWUKICAgICAgICAgICAgICAgICAgcGlwZWxpbmU6IFBpcGVsaW5lQmFzZQogICAgICAgICAgICAgICAgICBzY3JpcHRfcGFyYW1ldGVyczogRGljdFtzdHIsIHN0cl0KICAgICAgICAgICAgICAgICAgbWV0cmljczogRGljdFtzdHIsIHN0cl0KICAgICAgICAgICAgICAgICAgcmVzb3VyY2VzOiBSZXNvdXJjZXMKICAgICAgICAgICAgICAgICAgc3RhdHVzOiBQaXBlbGluZVJ1blN0YXR1cwogICAgIiIiCiAgICB3aXRoIHJlcXVlc3QuYXBwWyJmbGFza19hcHAiXS5hcHBfY29udGV4dCgpOgogICAgICAgIGhhbmRsZXIgPSBtYWtlX2dldF9waXBlbGluZV9ydW4oYXBwX2ZlYXR1cmVfcGlwZWxpbmVfc2VydmljZShjdXJyZW50X2FwcCkpCiAgICAgICAgcmV0dXJuIGF3YWl0IGhhbmRsZXIocmVxdWVzdD1yZXF1ZXN0LCBwaXBlbGluZV9wdWJsaWNfaWQ9cnVuX2lkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VjcmV0czoKICAgICAgICAgICAgICAgICAgICB0eXBlOiBhcnJheQogICAgICAgICAgICAgICAgICAgIGl0ZW1zOgogICAgICAgICAgICAgICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aHR0cGxpYjI9PTAuMTIuMwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2VzOgogICAgICAgIDIwMDoKICAgICAgICAgIGRlc2NyaXB0aW9uOiBUaGUgcGlwZWxpbmUgdGhhdCB3YXMgc3VjY2Vzc2Z1bGx5IHVwZGF0ZWQuCiAgICAgICAgICBjb250ZW50OgogICAgICAgICAgICBhcHBsaWNhdGlvbi9qc29uOgogICAgICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgICAgIC0gJHJlZjogIiNjb21wb25lbnRzL3NjaGVtYXMvUGlwZWxpbmUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1vZGVsQXJ0ZWZhY3ROb3RGb3VuZEVycm9yLAo=</text>
+        <text encoding="base64">CgpAYnAucm91dGUoIi9ydW4vPHV1aWQ6cnVuX2lkPiIsIG1ldGhvZHM9WyJHRVQiXSkKQGF1dGhfcmVxdWlyZWQKZGVmIGdldF9waXBlbGluZV9ydW4ocnVuX2lkOiBVVUlEKToKICAgIHBpcGVsaW5lX3J1biA9IGFwcF9waXBlbGluZV9zZXJ2aWNlKGN1cnJlbnRfYXBwKS5nZXRfcGlwZWxpbmVfcnVuKHJ1bl9pZCkKICAgIHJldHVybiBqc29uaWZ5KGFzZGljdChwaXBlbGluZV9ydW4pKSwgMjAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlTm90QXZhaWxhYmxlRXJyb3IsCg==</text>
+        <text encoding="base64">QGV4cGVjdHNfanNvbl9haW8oVVBEQVRFX1BJUEVMSU5FX1NFQ1JFVFNfU0NIRU1BLCBhbGxvd19ub25lPVRydWUpCkBleHBlY3RzX2FyZ3NfYWlvKFBJUEVMSU5FX1BVQkxJQ19JRF9TQ0hFTUEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">CgpAYnAucm91dGUoIi9ydW4vPHV1aWQ6cnVuX2lkPiIsIG1ldGhvZHM9WyJHRVQiXSkKQGF1dGhfcmVxdWlyZWQKZGVmIGdldF9waXBlbGluZV9ydW4ocnVuX2lkOiBVVUlEKToKICAgIHBpcGVsaW5lX3J1biA9IGFwcF9waXBlbGluZV9zZXJ2aWNlKGN1cnJlbnRfYXBwKS5nZXRfcGlwZWxpbmVfcnVuKHJ1bl9pZCkKICAgIHJldHVybiBqc29uaWZ5KGFzZGljdChwaXBlbGluZV9ydW4pKSwgMjAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -392,8 +410,6 @@
         <entry>\/v1\/run</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/PipelineDAO.c.\(.*\)]/'\1']/g</entry>
-        <entry>%s/PipelineRunDAO.c.\(.*\)]/'\1']/g</entry>
         <entry>%s/ModelServerDAO.c.\(.*\)]/'\1']/g</entry>
         <entry>36</entry>
         <entry>%s/PipelineDAO/pipeline_dao/g</entry>
@@ -409,9 +425,11 @@
         <entry>wq</entry>
         <entry>260</entry>
         <entry>434</entry>
-        <entry>w</entry>
         <entry>144</entry>
         <entry>132</entry>
+        <entry>232</entry>
+        <entry>230</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
