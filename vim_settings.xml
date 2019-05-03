@@ -112,7 +112,6 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/span/spanitor/spanitor.py" timestamp="1556860926613" />
       <file name="$USER_HOME$/span/span/domain/exceptions.py" timestamp="1555382798052">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="119" column="0" />
@@ -127,6 +126,13 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1556870307980">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="47" column="31" />
+      </file>
       <file name="$USER_HOME$/span/Dockerfile" timestamp="1556009327175">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -135,12 +141,20 @@
       <file name="$USER_HOME$/span/span/api/v1/pipeline.py" timestamp="1556790756786">
         <mark key="'" line="120" column="11" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1556870355943" />
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="95" column="18" />
         <mark key="]" line="95" column="37" />
         <mark key="^" line="95" column="37" />
         <mark key="." line="95" column="37" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/components/App/App.tsx" timestamp="1556869635015">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="164" column="12" />
+        <mark key="]" line="164" column="20" />
+        <mark key="." line="164" column="20" />
+        <mark key="^" line="164" column="20" />
       </file>
       <file name="$USER_HOME$/span/requirements-dev.txt" timestamp="1555995352367">
         <mark key="'" line="0" column="0" />
@@ -173,6 +187,10 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1556870230850">
+        <mark key="'" line="58" column="17" />
+        <mark key="^" line="150" column="5" />
       </file>
       <file name="$USER_HOME$/span/tests/domain/test_model_service.py" timestamp="1554797579088">
         <mark key="'" line="16" column="34" />
@@ -211,11 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="28" column="14" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="30" column="15" filename="$USER_HOME$/span/entrypoint.sh" />
-      <jump line="14" column="10" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
       <jump line="12" column="16" filename="$USER_HOME$/span/span/infrastructure/model_server_manager/model_server_manager.py" />
       <jump line="26" column="0" filename="$USER_HOME$/span/spanitor/spanitor.py" />
       <jump line="114" column="26" filename="$USER_HOME$/span/spanitor/spanitor.py" />
@@ -311,55 +324,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
       <jump line="19" column="18" filename="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" />
       <jump line="66" column="29" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/App/App.tsx" />
+      <jump line="164" column="0" filename="$USER_HOME$/span-ui/src/components/App/App.tsx" />
+      <jump line="58" column="17" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="45" column="13" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="47" column="19" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.</text>
+        <text>getRun</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>getRun</text>
       </register>
       <register name="/" type="4">
-        <text>boto</text>
+        <text>not found</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9waXBlbGluZV9ydW4ocnVuX2lkPXJ1bl9pZCkgICMgY2hlY2sgaWYgcnVuIGV4aXN0cwo=</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBnZXRSdW4gPSAocnVuSWQ6IHN0cmluZykgPT4gewogIHJldHVybiBmZXRjaChgJHtnZXRFbmRwb2ludFVybCgpfS9ydW4vJHtydW5JZH1gLCB7CiAgICBoZWFkZXJzOiBtYWtlSGVhZGVycyh7IHdpdGhBdXRoOiB0cnVlIH0pLAogICAgbWV0aG9kOiAiR0VUIiwKICAgIG1vZGU6ICJjb3JzIgogIH0pCiAgICAudGhlbihyZXMgPT4gcmVzLmpzb24oKSkKICAgIC50aGVuKHRocm93SWZFcnJvcik7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJ1Y2tldF9uYW1lID0gYnVja2V0X25hbWUK</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kZWxQZXJmb3JtYW5jZSB9IGZyb20gIi4vTW9kZWxQZXJmb3JtYW5jZS9Nb2RlbFBlcmZvcm1hbmNlIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VjdGlvbiB9IGZyb20gIkBsaWJ1aS9jb21wb25lbnRzL1NlY3Rpb24iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gdXNlIHRoZSBhY3R1YWwgSlNPTiBmaWxlCiAgICAgICAgY2xpZW50ID0gc3RvcmFnZS5DbGllbnQuZnJvbV9zZXJ2aWNlX2FjY291bnRfanNvbigiL2FwcC9zcGFuLXN0YWdpbmctMTc1NDY0ZDFkNzQ1Lmpzb24iKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3VibmF2IH0gZnJvbSAiQGxpYnVpL2NvbXBvbmVudHMvTmF2IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cGxpYjI9PTAuMTIuMwo=</text>
+        <text encoding="base64">ICAgICAgPD4KICAgICAgICB7LyogU2VlIFZpZXdFbmRwb2ludFBhZ2UgZm9yIGhvdyB0byBsYXlvdXQgd2hlbiByZWZhY3RvcmluZyB0aGlzIHRvIHVzZSBQYWdlQm9keSAqL30KICAgICAgICA8U3dpdGNoPgogICAgICAgICAgPFJvdXRlCiAgICAgICAgICAgIHBhdGg9IiovbG9ncyIKICAgICAgICAgICAgcmVuZGVyPXsoKSA9PiAoCiAgICAgICAgICAgICl9CiAgICAgICAgICAvPgogICAgICAgICAgfQogICAgICAgICAgPFJvdXRlCiAgICAgICAgICAgIHJlbmRlcj17KCkgPT4gKAogICAgICAgICAgICAgIDxNb2RlbFBlcmZvcm1hbmNlCiAgICAgICAgICAgICAgICBsb2FkaW5nPXsKICAgICAgICAgICAgICAgICAgIWlzVGVybWluYWxSdW5TdGF0dXModGhpcy5wcm9wcy5ydW4uc3RhdHVzIGFzIFJ1blN0YXR1cykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJ1bj17dGhpcy5wcm9wcy5ydW59CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgKX0KICAgICAgICAgIC8+CiAgICAgICAgPC9Td2l0Y2g+CiAgICAgIDwvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8UnVuTG9ncyB1cmw9e2dldFJ1blN0cmVhbWluZ0xvZ3NVcmwodGhpcy5wcm9wcy5ydW4ucnVuX2lkKX0gLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1vZGVsQXJ0ZWZhY3ROb3RGb3VuZEVycm9yLAo=</text>
+        <text encoding="base64">ICAgICAgPC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlTm90QXZhaWxhYmxlRXJyb3IsCg==</text>
+        <text encoding="base64">ICAgICAgPD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">ICAgICAgICA8U2VjdGlvbj4KICAgICAgICA8L1NlY3Rpb24+Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boto</last-search>
+      <last-search>not found</last-search>
       <last-offset />
-      <last-pattern>boto</last-pattern>
+      <last-pattern>not found</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -367,8 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_</entry>
-        <entry>self.metadata</entry>
         <entry>====</entry>
         <entry>===</entry>
         <entry>db</entry>
@@ -387,6 +403,8 @@
         <entry>\cheader</entry>
         <entry>\cboto</entry>
         <entry>boto</entry>
+        <entry>view feature</entry>
+        <entry>not found</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PipelineDAO.c.\(.*\)]/'\1']/g</entry>
@@ -406,9 +424,9 @@
         <entry>wq</entry>
         <entry>260</entry>
         <entry>434</entry>
-        <entry>w</entry>
         <entry>144</entry>
         <entry>132</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -443,6 +461,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
