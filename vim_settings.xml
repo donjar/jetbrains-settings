@@ -141,11 +141,11 @@
       <file name="$USER_HOME$/span/span/api/v1/pipeline.py" timestamp="1556790756786">
         <mark key="'" line="120" column="11" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1557120121669">
-        <mark key="[" line="554" column="52" />
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1557121227104">
+        <mark key="[" line="540" column="35" />
         <mark key="]" line="554" column="52" />
-        <mark key="." line="554" column="52" />
-        <mark key="^" line="554" column="45" />
+        <mark key="." line="540" column="35" />
+        <mark key="^" line="554" column="52" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
