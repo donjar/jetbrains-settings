@@ -37,12 +37,6 @@
       <file name="$USER_HOME$/span-ui/src/pages/feature/view/ViewFeaturePipelinePage.tsx" timestamp="1557207105442">
         <mark key="'" line="119" column="18" />
       </file>
-      <file name="$USER_HOME$/span/launch_dev.sh" timestamp="1556012476207">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
       <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/requests/sessions.py" timestamp="1556002471997">
         <mark key="'" line="6" column="23" />
       </file>
@@ -63,12 +57,6 @@
       <file name="$USER_HOME$/span/airflow/span_plugin.py" timestamp="1555995019552">
         <mark key="'" line="101" column="64" />
       </file>
-      <file name="$USER_HOME$/span/docker-compose.develop.yml" timestamp="1556861618002">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1557194357393">
         <mark key="'" line="95" column="46" />
         <mark key="[" line="45" column="48" />
@@ -83,11 +71,6 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/span/Dockerfile" timestamp="1556009327175">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/span-ui/src/components/App/App.tsx" timestamp="1556869635015">
         <mark key="'" line="164" column="0" />
         <mark key="[" line="164" column="12" />
@@ -101,12 +84,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/span/requirements.txt" timestamp="1556862463725">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/span/span/domain/services.py" timestamp="1556863164387">
         <mark key="'" line="228" column="27" />
@@ -128,11 +105,6 @@
         <mark key="]" line="13" column="42" />
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/span/config.template.hcl" timestamp="1556861634694">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1557209996141">
         <mark key="[" line="1" column="90" />
@@ -156,12 +128,6 @@
       <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/site-packages/airflow/hooks/http_hook.py" timestamp="1556003366280">
         <mark key="'" line="83" column="8" />
       </file>
-      <file name="$USER_HOME$/span/docker-compose.alembic.yml" timestamp="1556861605793">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/span/tests/airflow/test_run_pipeline_operator.py" timestamp="1556007403095">
         <mark key="'" line="36" column="49" />
         <mark key="[" line="36" column="41" />
@@ -179,18 +145,6 @@
       <file name="$USER_HOME$/span/span/api/helper.py" timestamp="1556865481038">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/span/airflow_plugin/span_plugin.py" timestamp="1556007142520">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="75" column="9" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/span/span/app.py" timestamp="1556861574115">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/reducers/run.ts" timestamp="1557200454695">
         <mark key="'" line="24" column="0" />
@@ -282,17 +236,14 @@
         <mark key="^" line="19" column="95" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/span/config_jsonschema.json" timestamp="1556861593285">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/span-ui/package.json" timestamp="1557211043526">
+        <mark key="'" line="44" column="21" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/components/RepoInfoSubform/RepoInfoSubform.tsx" timestamp="1557211366465">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="31" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="201" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="200" column="29" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="94" column="46" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
       <jump line="73" column="56" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="129" column="31" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="130" column="56" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
@@ -389,6 +340,10 @@
       <jump line="331" column="8" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
       <jump line="35" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
       <jump line="135" column="16" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/package.json" />
+      <jump line="44" column="21" filename="$USER_HOME$/span-ui/package.json" />
+      <jump line="112" column="20" filename="$USER_HOME$/span-ui/src/components/RepoInfoSubform/RepoInfoSubform.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/RepoInfoSubform/RepoInfoSubform.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +353,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>NoRunError</text>
+        <text>router</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PE5vUnVuRXJyb3IgZXJyb3I9e3RoaXMucHJvcHMuZXJyb3J9IC8+</text>
@@ -435,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NoRunError</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern>NoRunError</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boto</entry>
         <entry>view feature</entry>
         <entry>not found</entry>
         <entry>Deploy</entry>
@@ -465,6 +419,7 @@
         <entry>this.props.run</entry>
         <entry>\ccommit</entry>
         <entry>NoRunError</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
