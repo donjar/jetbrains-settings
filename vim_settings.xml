@@ -13,6 +13,9 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1557194954479">
+        <mark key="'" line="171" column="10" />
+      </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
         <mark key="'" line="0" column="44" />
         <mark key="[" line="9" column="37" />
@@ -33,11 +36,6 @@
         <mark key="]" line="91" column="25" />
         <mark key="^" line="15" column="36" />
         <mark key="." line="91" column="25" />
-      </file>
-      <file name="$USER_HOME$/span/broker/common/pubsub_consumer.py" timestamp="1556847042942">
-        <mark key="'" line="5" column="44" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="62" />
       </file>
       <file name="$USER_HOME$/span/docker-compose.alembic.yml" timestamp="1556861605793">
         <mark key="'" line="0" column="0" />
@@ -110,8 +108,12 @@
       <file name="$USER_HOME$/span/tests/api/test_model.py" timestamp="1555995016066">
         <mark key="'" line="56" column="34" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1557130044009">
-        <mark key="'" line="94" column="46" />
+      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1557194357393">
+        <mark key="'" line="95" column="46" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="48" />
+        <mark key="." line="45" column="48" />
+        <mark key="^" line="45" column="48" />
       </file>
       <file name="$USER_HOME$/span/entrypoint.sh" timestamp="1556012881946">
         <mark key="'" line="30" column="15" />
@@ -196,6 +198,13 @@
         <mark key="." line="40" column="4" />
         <mark key="^" line="40" column="4" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/NoRunError.tsx" timestamp="1557194362856">
+        <mark key="'" line="12" column="44" />
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/span/config.template.hcl" timestamp="1556861634694">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -208,11 +217,12 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1557130977920">
-        <mark key="[" line="109" column="5" />
-        <mark key="]" line="109" column="5" />
-        <mark key="^" line="109" column="5" />
-        <mark key="." line="109" column="5" />
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1557194928860">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="178" column="65" />
+        <mark key="]" line="178" column="66" />
+        <mark key="^" line="178" column="16" />
+        <mark key="." line="178" column="66" />
       </file>
       <file name="$USER_HOME$/span/tests/domain/test_model_service.py" timestamp="1554797579088">
         <mark key="'" line="16" column="34" />
@@ -251,15 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="36" filename="$USER_HOME$/span/spanitor/spanitor.py" />
-      <jump line="436" column="8" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="66" column="56" filename="$USER_HOME$/span/span/api/helper.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/span/span/api/helper.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/span/span/api/helper.py" />
-      <jump line="423" column="4" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="123" column="35" filename="$USER_HOME$/span/span/domain/services.py" />
-      <jump line="104" column="17" filename="$USER_HOME$/span/span/domain/services.py" />
-      <jump line="127" column="4" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
       <jump line="134" column="4" filename="$USER_HOME$/span/span/api/v1/pipeline/training_pipeline.py" />
       <jump line="107" column="62" filename="$USER_HOME$/span/span/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/span/span/app.py" />
@@ -351,55 +352,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
       <jump line="28" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
       <jump line="47" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/NoRunError.tsx" />
+      <jump line="12" column="44" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/NoRunError.tsx" />
+      <jump line="6" column="22" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="166" column="18" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="178" column="39" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="178" column="12" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="71" column="2" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="171" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGVwbG95UnVuPXtqZXN0LmZuKCl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
-        <text>\cdeploy</text>
+        <text>isLoading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBoZWFkZXJUYWc7CiAgICBpZiAodGhpcy5wcm9wcy5ydW4pIHsKICAgICAgbGV0IGRlcGxveUluZGljYXRvcjsKICAgICAgaWYgKHRoaXMucHJvcHMucnVuLnN0YXR1cyA9PT0gUnVuU3RhdHVzLlN1Y2NlZWRlZCkgewogICAgICAgIGRlcGxveUluZGljYXRvciA9ICgKICAgICAgICAgIDxQb2xsaW5nRGVwbG95SW5kaWNhdG9yCiAgICAgICAgICAgIHJ1bklkPXt0aGlzLnByb3BzLnJ1bi5ydW5faWR9CiAgICAgICAgICAgIG9uU3RhdHVzUG9sbFN1Y2Nlc3M9e3RoaXMucHJvcHMuaGFuZGxlU3RhdHVzRmV0Y2hTdWNjZXNzfQogICAgICAgICAgLz4KICAgICAgICApOwogICAgICB9IGVsc2UgewogICAgICAgIGRlcGxveUluZGljYXRvciA9ICgKICAgICAgICAgIDxEZXBsb3lJbmRpY2F0b3IgcHVsc2luZz17ZmFsc2V9IGRlcGxveVN0YXRlPXtTZXJ2ZXJTdGF0dXMuU3RvcHBlZH0gLz4KICAgICAgICApOwogICAgICB9CiAgICAgIGhlYWRlclRhZyA9ICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmhlYWRlclRhZ30+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRhZ30+CiAgICAgICAgICAgIDxSdW5JbmRpY2F0b3IKICAgICAgICAgICAgICBwdWxzaW5nPXshaXNUZXJtaW5hbFJ1blN0YXR1cyh0aGlzLnByb3BzLnJ1bi5zdGF0dXMgYXMgUnVuU3RhdHVzKX0KICAgICAgICAgICAgICBydW5TdGF0ZT17dGhpcy5wcm9wcy5ydW4uc3RhdHVzIGFzIFJ1blN0YXR1c30KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy50YWd9PntkZXBsb3lJbmRpY2F0b3J9PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICk7CiAgICB9CgogICAgY29uc3QgZGVwbG95YWJsZSA9CiAgICAgIHRoaXMuaXNEZXBsb3lhYmxlU2VydmVyU3RhdHVzKHRoaXMucHJvcHMuc2VydmVyKSAmJgogICAgICAodGhpcy5wcm9wcy5ydW4uc3RhdHVzIGFzIFJ1blN0YXR1cykgPT09IFJ1blN0YXR1cy5TdWNjZWVkZWQ7CgogICAgY29uc3QgYWN0aW9uczogSVBhZ2VBY3Rpb25bXSA9IFsKICAgICAgewogICAgICAgIGRpc2FibGVkOiAhZGVwbG95YWJsZSwKICAgICAgICBsYWJlbDogaTE4bi50KGtleXMudWlfYnRuX2RlcGxveV9waXBlbGluZSksCiAgICAgICAgb25DbGljazogKCkgPT4gewogICAgICAgICAgaWYgKHRoaXMucHJvcHMuaGlzdG9yeSAmJiB0aGlzLnByb3BzLm1hdGNoKSB7CiAgICAgICAgICAgIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKFJ1blJvdXRlcy5kZXBsb3kodGhpcy5wcm9wcy5ydW4ucnVuX2lkKSk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICBdOwoK</text>
+        <text encoding="base64">ICAgICJlcnJvcl9iYWNrX3RvX3BpcGVsaW5lcyI6ICJCYWNrIHRvIHBpcGVsaW5lIGxpc3QiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGVwbG95UnVuPXtqZXN0LmZuKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgPFBhZ2VDb250YWluZXI+CiAgICAgICAgPFBhZ2VIZWFkZXIKICAgICAgICAgIGhlYWRlclRpdGxlPXsodGhpcy5wcm9wcy5ydW4gJiYgdGhpcy5wcm9wcy5ydW4ucnVuX2lkKSB8fCAiXHUwMEEwIn0KICAgICAgICAgIHRhZz17aGVhZGVyVGFnfQogICAgICAgICAgaGVhZGVyU3VidGl0bGU9e2kxOG4udChrZXlzLnBhZ2VfcnVuX3ZpZXdfcGFnZV9zdWJ0aXRsZSwgewogICAgICAgICAgICBkYXRlOiBmb3JtYXREYXRlVGltZSh0aGlzLnByb3BzLnJ1bi5jcmVhdGVkX2F0KQogICAgICAgICAgfSl9CiAgICAgICAgICBicmVhZGNydW1icz17CiAgICAgICAgICAgIDxCcmVhZGNydW1icwogICAgICAgICAgICAgIGNydW1icz17WwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBocmVmOiBGZWF0dXJlUGlwZWxpbmVSb3V0ZXMudmlld0FsbCgpLAogICAgICAgICAgICAgICAgICBsYWJlbDogaTE4bi50KGtleXMudWlfbmF2X2l0ZW1fZmVhdHVyZXMpCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBocmVmOiBGZWF0dXJlUGlwZWxpbmVSb3V0ZXMudmlldygKICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLnJ1bi5waXBlbGluZS5wdWJsaWNfaWQKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgbGFiZWw6IHRoaXMucHJvcHMucnVuLnBpcGVsaW5lLnBpcGVsaW5lX25hbWUKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIGxhYmVsOiB0aGlzLnByb3BzLnJ1bi5ydW5faWQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdfQogICAgICAgICAgICAgIGxpZ2h0CiAgICAgICAgICAgIC8+CiAgICAgICAgICB9CiAgICAgICAgICBpbmZvYm94PXsKICAgICAgICAgICAgPEluZm9ib3gKICAgICAgICAgICAgICBpbmZvPXtbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIGxhYmVsOiBpMThuLnQoa2V5cy5wYWdlX3BpcGVsaW5lX3ZpZXdfaW5mb19zb3VyY2VfbGFiZWwpLAogICAgICAgICAgICAgICAgICB2YWx1ZTogKAogICAgICAgICAgICAgICAgICAgIDxSZXBvc2l0b3J5U291cmNlUmVuZGVyZXIKICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5ydW4gJiYKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5ydW4ucGlwZWxpbmUucGlwZWxpbmVfc291cmNlCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbGFiZWw6IGkxOG4udChrZXlzLnBhZ2VfcGlwZWxpbmVfdmlld19pbmZvX2NvbW1pdF9sYWJlbCksCiAgICAgICAgICAgICAgICAgIHZhbHVlOiAoCiAgICAgICAgICAgICAgICAgICAgPENvbW1pdFJlbmRlcmVyCiAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMucnVuICYmCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMucnVuLnBpcGVsaW5lLnBpcGVsaW5lX3NvdXJjZS5jb21taXQKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBsYWJlbDogaTE4bi50KGtleXMucGFnZV9waXBlbGluZV92aWV3X2luZm9fY3JlYXRvcl9sYWJlbCksCiAgICAgICAgICAgICAgICAgIHZhbHVlOiAiPyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdfQogICAgICAgICAgICAvPgogICAgICAgICAgfQogICAgICAgICAgcmVzdHJpY3RXaWR0aAogICAgICAgIC8+Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbmRsZURlcGxveVJ1bj17amVzdC5mbigpfQo=</text>
+        <text encoding="base64">ICAgICAgPC9QYWdlQ29udGFpbmVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbmRsZURlcGxveVJ1bj17amVzdC5mbigpfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGVwbG95UnVuPXtqZXN0LmZuKCl9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhhbmRsZURlcGxveVJ1bj17amVzdC5mbigpfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhhbmRsZURlcGxveVJ1bj17amVzdC5mbigpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGVwbG95UnVuPXtqZXN0LmZuKCl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlcGxveWFibGUgPQogICAgICB0aGlzLmlzRGVwbG95YWJsZVNlcnZlclN0YXR1cyh0aGlzLnByb3BzLnNlcnZlcikgJiYKICAgICAgKHRoaXMucHJvcHMucnVuLnN0YXR1cyBhcyBSdW5TdGF0dXMpID09PSBSdW5TdGF0dXMuU3VjY2VlZGVkOwoKICAgIGNvbnN0IGFjdGlvbnM6IElQYWdlQWN0aW9uW10gPSBbCiAgICAgIHsKICAgICAgICBkaXNhYmxlZDogIWRlcGxveWFibGUsCiAgICAgICAgbGFiZWw6IGkxOG4udChrZXlzLnVpX2J0bl9kZXBsb3lfcGlwZWxpbmUpLAogICAgICAgIG9uQ2xpY2s6ICgpID0+IHsKICAgICAgICAgIGlmICh0aGlzLnByb3BzLmhpc3RvcnkgJiYgdGhpcy5wcm9wcy5tYXRjaCkgewogICAgICAgICAgICB0aGlzLnByb3BzLmhpc3RvcnkucHVzaChSdW5Sb3V0ZXMuZGVwbG95KHRoaXMucHJvcHMucnVuLnJ1bl9pZCkpOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGRlcGxveUluZGljYXRvcjsKICAgICAgaWYgKHRoaXMucHJvcHMucnVuLnN0YXR1cyA9PT0gUnVuU3RhdHVzLlN1Y2NlZWRlZCkgewogICAgICAgIGRlcGxveUluZGljYXRvciA9ICgKICAgICAgICAgIDxQb2xsaW5nRGVwbG95SW5kaWNhdG9yCiAgICAgICAgICAgIHJ1bklkPXt0aGlzLnByb3BzLnJ1bi5ydW5faWR9CiAgICAgICAgICAgIG9uU3RhdHVzUG9sbFN1Y2Nlc3M9e3RoaXMucHJvcHMuaGFuZGxlU3RhdHVzRmV0Y2hTdWNjZXNzfQogICAgICAgICAgLz4KICAgICAgICApOwogICAgICB9IGVsc2UgewogICAgICAgIGRlcGxveUluZGljYXRvciA9ICgKICAgICAgICAgIDxEZXBsb3lJbmRpY2F0b3IgcHVsc2luZz17ZmFsc2V9IGRlcGxveVN0YXRlPXtTZXJ2ZXJTdGF0dXMuU3RvcHBlZH0gLz4KICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFnfT57ZGVwbG95SW5kaWNhdG9yfTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlcGxveWFibGUgPQogICAgICB0aGlzLmlzRGVwbG95YWJsZVNlcnZlclN0YXR1cyh0aGlzLnByb3BzLnNlcnZlcikgJiYKICAgICAgKHRoaXMucHJvcHMucnVuLnN0YXR1cyBhcyBSdW5TdGF0dXMpID09PSBSdW5TdGF0dXMuU3VjY2VlZGVkOwoKICAgIGNvbnN0IGFjdGlvbnM6IElQYWdlQWN0aW9uW10gPSBbCiAgICAgIHsKICAgICAgICBkaXNhYmxlZDogIWRlcGxveWFibGUsCiAgICAgICAgbGFiZWw6IGkxOG4udChrZXlzLnVpX2J0bl9kZXBsb3lfcGlwZWxpbmUpLAogICAgICAgIG9uQ2xpY2s6ICgpID0+IHsKICAgICAgICAgIGlmICh0aGlzLnByb3BzLmhpc3RvcnkgJiYgdGhpcy5wcm9wcy5tYXRjaCkgewogICAgICAgICAgICB0aGlzLnByb3BzLmhpc3RvcnkucHVzaChSdW5Sb3V0ZXMuZGVwbG95KHRoaXMucHJvcHMucnVuLnJ1bl9pZCkpOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cdeploy</last-search>
+      <last-search>isLoading</last-search>
       <last-offset />
-      <last-pattern>\cdeploy</last-pattern>
+      <last-pattern>isLoading</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_make_job</entry>
         <entry>spanitor</entry>
         <entry>artefact</entry>
         <entry>urllib</entry>
@@ -427,6 +436,7 @@
         <entry>\cpipeline</entry>
         <entry>\ctag</entry>
         <entry>\cdeploy</entry>
+        <entry>isLoading</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PipelineRunDAO.c.\(.*\)]/'\1']/g</entry>
