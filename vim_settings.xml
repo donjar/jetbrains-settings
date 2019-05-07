@@ -129,19 +129,18 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1557199062693">
-        <mark key="'" line="112" column="4" />
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1557201281362">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="140" column="13" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" timestamp="1557199122037">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" timestamp="1557200564643">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/span/span/infrastructure/cluster.py" timestamp="1556782557813">
         <mark key="'" line="41" column="13" />
@@ -188,10 +187,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/run.ts" timestamp="1557198972781">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="8" column="14" />
+      <file name="$USER_HOME$/span-ui/src/reducers/run.ts" timestamp="1557200454695">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="40" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="3" column="16" />
       </file>
@@ -212,11 +211,12 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1557198866889">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1557200986848">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/span/span/api/v1/pipeline.py" timestamp="1556790756786">
         <mark key="'" line="120" column="11" />
@@ -272,19 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/span/docker-compose.alembic.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/span/docker-compose.develop.yml" />
-      <jump line="27" column="0" filename="$USER_HOME$/span/requirements.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/span/config.template.hcl" />
-      <jump line="49" column="75" filename="$USER_HOME$/span/config.template.hcl" />
-      <jump line="19" column="0" filename="$USER_HOME$/span/requirements.txt" />
-      <jump line="420" column="14" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="229" column="27" filename="$USER_HOME$/span/span/domain/services.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="434" column="43" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="1" column="49" filename="$USER_HOME$/span/span/infrastructure/dao.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
       <jump line="19" column="18" filename="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" />
       <jump line="66" column="29" filename="$USER_HOME$/span/span/infrastructure/repository/model_server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/App/App.tsx" />
@@ -303,7 +290,6 @@
       <jump line="126" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="26" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="187" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="35" column="8" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="105" column="48" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="39" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="45" column="4" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
@@ -338,8 +324,6 @@
       <jump line="80" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
       <jump line="4" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
       <jump line="10" column="18" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
       <jump line="167" column="6" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="197" column="12" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
@@ -358,7 +342,6 @@
       <jump line="166" column="18" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="178" column="39" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="178" column="12" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="31" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="71" column="2" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="171" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="15" column="26" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
@@ -369,58 +352,75 @@
       <jump line="98" column="8" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="25" column="9" filename="$USER_HOME$/span-ui/src/reducers/run.ts" />
       <jump line="15" column="9" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="39" column="8" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="17" column="11" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="0" column="21" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/span-ui/src/reducers/run.ts" />
+      <jump line="21" column="2" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="61" column="47" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
       <jump line="27" column="21" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
       <jump line="112" column="4" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="39" column="8" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="19" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="31" column="17" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="31" column="36" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="34" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="44" column="5" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="19" column="3" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="35" column="29" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
+      <jump line="27" column="41" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
+      <jump line="26" column="19" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRUeXBlfSBmcm9tICJ0eXBlc2FmZS1hY3Rpb25zIjsK</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXJUYWc7CiAgICBpZiAodGhpcy5wcm9wcy5ydW4pIHsKICAgICAgaGVhZGVyVGFnID0gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuaGVhZGVyVGFnfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFnfT4KICAgICAgICAgICAgPFJ1bkluZGljYXRvcgogICAgICAgICAgICAgIHB1bHNpbmc9eyFpc1Rlcm1pbmFsUnVuU3RhdHVzKHRoaXMucHJvcHMucnVuLnN0YXR1cyBhcyBSdW5TdGF0dXMpfQogICAgICAgICAgICAgIHJ1blN0YXRlPXt0aGlzLnByb3BzLnJ1bi5zdGF0dXMgYXMgUnVuU3RhdHVzfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICk7CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>IPipelineRun | undefined;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>this.props.run</text>
+        <text>fetchFeaturePipeline</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBydW46IElQaXBlbGluZVJ1biB8IHVuZGVmaW5lZDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">KAogICAgICA8UnVuTG9ncyB1cmw9e2dldFJ1blN0cmVhbWluZ0xvZ3NVcmwodGhpcy5wcm9wcy5ydW4ucnVuX2lkKX0gLz4KICAgICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRUeXBlfSBmcm9tICJ0eXBlc2FmZS1hY3Rpb25zIjsK</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXJUYWc7CiAgICBpZiAodGhpcy5wcm9wcy5ydW4pIHsKICAgICAgaGVhZGVyVGFnID0gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuaGVhZGVyVGFnfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFnfT4KICAgICAgICAgICAgPFJ1bkluZGljYXRvcgogICAgICAgICAgICAgIHB1bHNpbmc9eyFpc1Rlcm1pbmFsUnVuU3RhdHVzKHRoaXMucHJvcHMucnVuLnN0YXR1cyBhcyBSdW5TdGF0dXMpfQogICAgICAgICAgICAgIHJ1blN0YXRlPXt0aGlzLnByb3BzLnJ1bi5zdGF0dXMgYXMgUnVuU3RhdHVzfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICk7CiAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtJUGlwZWxpbmVSdW59IGZyb20gIkBzcmMvc2VydmljZXMvc3BhbiI7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmxvYWRpbmcpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8UGFnZUhlYWRlcgogICAgICAgICAgcmVzdHJpY3RXaWR0aAogICAgICAgICAgaGVhZGVyVGl0bGU9IiZuYnNwOyIKICAgICAgICAgIGhlYWRlclN1YnRpdGxlPSImbmJzcDsiCiAgICAgICAgICBicmVhZGNydW1icz17CiAgICAgICAgICAgIDxCcmVhZGNydW1icwogICAgICAgICAgICAgIGNydW1icz17WwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBocmVmOiBGZWF0dXJlUGlwZWxpbmVSb3V0ZXMudmlld0FsbCgpLAogICAgICAgICAgICAgICAgICBsYWJlbDogaTE4bi50KGtleXMudWlfbmF2X2l0ZW1fZmVhdHVyZXMpCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBsYWJlbDogIiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdfQogICAgICAgICAgICAvPgogICAgICAgICAgfQogICAgICAgICAgaW5mb2JveD17CiAgICAgICAgICAgIDxJbmZvYm94CiAgICAgICAgICAgICAgaW5mbz17WwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBsYWJlbDogIiIsCiAgICAgICAgICAgICAgICAgIHZhbHVlOiAiIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF19CiAgICAgICAgICAgIC8+CiAgICAgICAgICB9CiAgICAgICAgLz4KICAgICAgKTsKICAgIH0KCiAgICBpZiAodGhpcy5wcm9wcy5lcnJvcikgewogICAgICByZXR1cm4gPE5vUnVuRXJyb3IgZXJyb3I9e3RoaXMucHJvcHMuZXJyb3J9IC8+OwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBJUGlwZWxpbmVSdW4sCg==</text>
+        <text encoding="base64">CiAgICBjb25zdCBwYWdlQ29udGVudCA9ICgKICAgICAgPFJ1bkxvZ3MgdXJsPXtnZXRSdW5TdHJlYW1pbmdMb2dzVXJsKHRoaXMucHJvcHMucnVuLnJ1bl9pZCl9IC8+CiAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjYXNlIGdldFR5cGUoYWN0aW9ucy5zZXRTZXJ2ZXJGb3JSdW4pOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHNlcnZlcjogYWN0aW9uLnBheWxvYWQuc2VydmVyCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICBJU2VydmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICBJU2VydmVyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsK</text>
+        <text encoding="base64">ICBoYW5kbGVTdGF0dXNGZXRjaFN1Y2Nlc3M6IChzZXJ2ZXI6IElTZXJ2ZXIgfCBudWxsKSA9PiBhbnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI/OiBJU2VydmVyIHwgbnVsbDsK</text>
+        <text encoding="base64">ICBoYW5kbGVTdGF0dXNGZXRjaFN1Y2Nlc3M6IChzZXJ2ZXI6IElTZXJ2ZXIgfCBudWxsKSA9PiB7CiAgICBkaXNwYXRjaChzZXRTZXJ2ZXJGb3JSdW4oc2VydmVyKSk7CiAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI6IHN0YXRlLmZlYXR1cmVQaXBlbGluZVJ1bnMuc2VydmVyCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgZ2V0VHlwZShhY3Rpb25zLnNldFNlcnZlckZvclJ1bik6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgc2VydmVyOiBhY3Rpb24ucGF5bG9hZC5zZXJ2ZXIKICAgICAgfTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtTcGlubmVyfSBmcm9tICJAbGlidWkvY29tcG9uZW50cy9TcGlubmVyIjsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.props.run</last-search>
+      <last-search>fetchFeaturePipeline</last-search>
       <last-offset />
-      <last-pattern>this.props.run</last-pattern>
+      <last-pattern>fetchFeaturePipeline</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -428,8 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>urllib</entry>
-        <entry>rqeuests</entry>
         <entry>\cheader</entry>
         <entry>\cboto</entry>
         <entry>boto</entry>
@@ -448,6 +446,8 @@
         <entry>isLoading</entry>
         <entry>run</entry>
         <entry>this.props.run</entry>
+        <entry>\cserver</entry>
+        <entry>fetchFeaturePipeline</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ModelServerDAO.c.\(.*\)]/'\1']/g</entry>
