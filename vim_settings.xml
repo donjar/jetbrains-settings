@@ -252,8 +252,8 @@
         <mark key="^" line="95" column="37" />
         <mark key="." line="95" column="37" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" timestamp="1557207650116">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" timestamp="1557208865715">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
@@ -290,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="53" column="17" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="72" column="31" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="201" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
@@ -390,6 +389,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
       <jump line="41" column="51" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="331" column="8" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
