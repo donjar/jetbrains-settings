@@ -57,6 +57,12 @@
       <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/http/client.py" timestamp="1555998701200">
         <mark key="'" line="81" column="12" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" timestamp="1557395908056">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="66" column="37" />
+        <mark key="^" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+      </file>
       <file name="$USER_HOME$/span/span/api/helper.py" timestamp="1556865481038">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="1" column="36" />
@@ -383,7 +389,7 @@
         <text encoding="base64">ICAgICAgICAgIGhhbmRsZVN0YXR1c0ZldGNoU3VjY2Vzcz17amVzdC5mbigpfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>357</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -437,8 +443,8 @@
         <entry>113</entry>
         <entry>143</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>357</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
