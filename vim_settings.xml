@@ -57,11 +57,12 @@
       <file name="$USER_HOME$/.pyenv/versions/3.7.3/lib/python3.7/http/client.py" timestamp="1555998701200">
         <mark key="'" line="81" column="12" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" timestamp="1557395908056">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="66" column="37" />
-        <mark key="." line="66" column="37" />
+      <file name="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" timestamp="1557452962790">
+        <mark key="'" line="81" column="39" />
+        <mark key="[" line="67" column="34" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="44" />
+        <mark key="^" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/span/span/api/helper.py" timestamp="1556865481038">
         <mark key="'" line="100" column="0" />
@@ -247,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="16" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="185" column="12" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="189" column="20" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="194" column="27" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="14" column="31" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
@@ -347,46 +346,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
       <jump line="32" column="2" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
       <jump line="33" column="2" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
+      <jump line="133" column="10" filename="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" />
+      <jump line="81" column="39" filename="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>DEVELOPMENT</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>DEVELOPMENT</text>
       </register>
       <register name="/" type="4">
         <text>isLoading</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PE5vUnVuRXJyb3IgZXJyb3I9e3RoaXMucHJvcHMuZXJyb3J9IC8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMuc3RhdGUubG9naW5CdXR0b25DbGlja2VkCiAgICAgICAgICAgICAgPyBpMThuLnQoa2V5cy5sb2dpbl9sb2dpbl9idXR0b25fY2xpY2tlZCkKICAgICAgICAgICAgICA6IGkxOG4udChrZXlzLmxvZ2luX2xvZ2luX2J1dHRvbil9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgeGl0KCJzaG93cyB0aGUgcnVuIiwgKCkgPT4gewogICAgLyogbm9vcCAqLwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52Lk5PREVfRU5WKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xsOiAoKSA9PiB7CiAgICAgICAgICByZXR1cm4gaGFuZGxlU3luY1BpcGVsaW5lUnVuc1N0YXR1cygKICAgICAgICAgICAgcHJvcHMubWF0Y2ggPyBwcm9wcy5tYXRjaC5wYXJhbXMuaWQgOiBwcm9wcy5ydW4ucnVuX2lkCiAgICAgICAgICApOwogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xsOiAoKSA9PiB7CiAgICAgICAgICByZXR1cm4gaGFuZGxlU3luY1BpcGVsaW5lUnVuc1N0YXR1cygKICAgICAgICAgICAgcHJvcHMubWF0Y2ggPyBwcm9wcy5tYXRjaC5wYXJhbXMuaWQgOiBwcm9wcy5ydW4ucnVuX2lkCiAgICAgICAgICApOwogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBnZXRSdW5TdHJlYW1pbmdMb2dzVXJsLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBoYW5kbGVTeW5jUGlwZWxpbmVSdW5zU3RhdHVzKAogICAgICAgICAgICBwcm9wcy5tYXRjaCA/IHByb3BzLm1hdGNoLnBhcmFtcy5pZCA6IHByb3BzLnJ1bi5ydW5faWQKICAgICAgICAgICk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigidXNlcjEiKTsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgbG9naW5CdXR0b25DbGlja2VkOiB0cnVlIH0pOwogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICBMb2dpbiBhcyB1c2VyMQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigidXNlcjEiKTsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgbG9naW5CdXR0b25DbGlja2VkOiB0cnVlIH0pOwogICAgICAgICAgICB9fQogICAgICAgICAgPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigpOwogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBsb2dpbkJ1dHRvbkNsaWNrZWQ6IHRydWUgfSk7CiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZAogICAgICAgICAgICAgID8gaTE4bi50KGtleXMubG9naW5fbG9naW5fYnV0dG9uX2NsaWNrZWQpCiAgICAgICAgICAgICAgOiBpMThuLnQoa2V5cy5sb2dpbl9sb2dpbl9idXR0b24pfQogICAgICAgICAgPC9CdXR0b24+</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlU3RhdHVzRmV0Y2hTdWNjZXNzPXtqZXN0LmZuKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9naW4gYXMgdXNlcjEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlU3RhdHVzRmV0Y2hTdWNjZXNzPXtqZXN0LmZuKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbmRsZVN0YXR1c0ZldGNoU3VjY2Vzcz17amVzdC5mbigpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZAogICAgICAgICAgICA/IGkxOG4udChrZXlzLmxvZ2luX2xvZ2luX2J1dHRvbl9jbGlja2VkKQogICAgICAgICAgICA6IGkxOG4udChrZXlzLmxvZ2luX2xvZ2luX2J1dHRvbil9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
