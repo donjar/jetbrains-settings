@@ -247,10 +247,12 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1557912413604">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1558427221522">
+        <mark key="'" line="722" column="33" />
+        <mark key="[" line="722" column="25" />
+        <mark key="]" line="405" column="44" />
+        <mark key="." line="722" column="33" />
+        <mark key="^" line="405" column="44" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
@@ -300,23 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="15" column="26" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="32" column="16" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="37" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="163" column="24" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="98" column="8" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="25" column="9" filename="$USER_HOME$/span-ui/src/reducers/run.ts" />
-      <jump line="15" column="9" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="39" column="8" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="17" column="11" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="0" column="21" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/span-ui/src/reducers/run.ts" />
-      <jump line="21" column="2" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="61" column="47" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
       <jump line="27" column="21" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
       <jump line="112" column="4" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="19" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
@@ -379,7 +364,6 @@
       <jump line="78" column="2" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="421" column="22" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="442" column="4" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="713" column="46" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="727" column="63" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="752" column="15" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
@@ -400,6 +384,24 @@
       <jump line="2" column="9" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.test.tsx" />
       <jump line="9" column="15" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.test.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/pipeline/list/ViewPipelinesPage.tsx" />
+      <jump line="196" column="48" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="237" column="38" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="405" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="433" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="465" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="475" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="527" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="540" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="784" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="233" column="38" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="585" column="59" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="596" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="607" column="59" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="617" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="643" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="666" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="722" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -409,7 +411,7 @@
         <text>&quot;Me&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZVw+</text>
+        <text>\/run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsdWU6IGkxOG4udChrZXlzLmNvbW1vbl9tZSkK</text>
@@ -442,13 +444,13 @@
         <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigpOwogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBsb2dpbkJ1dHRvbkNsaWNrZWQ6IHRydWUgfSk7CiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZAogICAgICAgICAgICAgID8gaTE4bi50KGtleXMubG9naW5fbG9naW5fYnV0dG9uX2NsaWNrZWQpCiAgICAgICAgICAgICAgOiBpMThuLnQoa2V5cy5sb2dpbl9sb2dpbl9idXR0b24pfQogICAgICAgICAgPC9CdXR0b24+</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZVw+</last-search>
+      <last-search>\/run</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZVw+</last-pattern>
+      <last-pattern>\/run</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -456,9 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
-        <entry>\cserver</entry>
-        <entry>fetchFeaturePipeline</entry>
         <entry>this.props.run</entry>
         <entry>\ccommit</entry>
         <entry>NoRunError</entry>
@@ -476,6 +475,9 @@
         <entry encoding="base64">XDxtZVw+</entry>
         <entry>Me</entry>
         <entry encoding="base64">XDxNZVw+</entry>
+        <entry>pipeline</entry>
+        <entry>\/pipeline</entry>
+        <entry>\/run</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PipelineRunDAO/pipeline_run_dao/g</entry>
@@ -495,9 +497,9 @@
         <entry>143</entry>
         <entry>357</entry>
         <entry>292</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
