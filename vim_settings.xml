@@ -247,13 +247,6 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1558427221522">
-        <mark key="'" line="722" column="33" />
-        <mark key="[" line="722" column="25" />
-        <mark key="]" line="405" column="44" />
-        <mark key="." line="722" column="33" />
-        <mark key="^" line="405" column="44" />
-      </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="95" column="18" />
