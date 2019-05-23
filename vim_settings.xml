@@ -67,22 +67,22 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" timestamp="1558414374229">
-        <mark key="'" line="331" column="8" />
-        <mark key="[" line="291" column="25" />
-        <mark key="]" line="291" column="25" />
-        <mark key="." line="291" column="45" />
-        <mark key="^" line="291" column="27" />
+      <file name="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" timestamp="1558587205189">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="^" line="298" column="71" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/span/airflow/span_plugin.py" timestamp="1555995019552">
         <mark key="'" line="101" column="64" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1558413904030">
-        <mark key="'" line="96" column="46" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1558587158516">
+        <mark key="'" line="207" column="28" />
+        <mark key="[" line="174" column="29" />
+        <mark key="]" line="174" column="39" />
+        <mark key="." line="174" column="39" />
+        <mark key="^" line="174" column="39" />
       </file>
       <file name="$USER_HOME$/span/entrypoint.sh" timestamp="1556012881946">
         <mark key="'" line="30" column="15" />
@@ -132,12 +132,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1558413914360">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="47" />
-        <mark key="." line="123" column="45" />
-        <mark key="^" line="123" column="45" />
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" timestamp="1558587319391">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="139" column="11" />
+        <mark key="." line="127" column="78" />
+        <mark key="^" line="127" column="78" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/PipelineInfobox/PipelineInfobox.tsx" timestamp="1558414292420">
         <mark key="[" line="33" column="17" />
@@ -247,6 +247,13 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1558587382543">
+        <mark key="'" line="124" column="18" />
+        <mark key="[" line="148" column="21" />
+        <mark key="]" line="149" column="27" />
+        <mark key="." line="149" column="27" />
+        <mark key="^" line="149" column="27" />
+      </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="95" column="18" />
@@ -254,8 +261,12 @@
         <mark key="^" line="95" column="37" />
         <mark key="." line="95" column="37" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" timestamp="1557297339537">
-        <mark key="'" line="33" column="2" />
+      <file name="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" timestamp="1558587455224">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="264" column="58" />
+        <mark key="]" line="264" column="58" />
+        <mark key="." line="264" column="58" />
+        <mark key="^" line="260" column="88" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.test.tsx" timestamp="1557213054643">
         <mark key="[" line="111" column="0" />
@@ -295,29 +306,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="21" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="112" column="4" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="19" column="2" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="31" column="17" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="31" column="36" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="34" column="0" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="44" column="5" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="19" column="3" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="35" column="29" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="27" column="41" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
-      <jump line="136" column="46" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="144" column="11" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
-      <jump line="59" column="26" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
-      <jump line="48" column="2" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="111" column="10" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="114" column="19" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="127" column="44" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="168" column="41" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="138" column="7" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
       <jump line="146" column="53" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
       <jump line="167" column="22" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
       <jump line="77" column="12" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPage.tsx" />
       <jump line="26" column="19" filename="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" />
       <jump line="336" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
@@ -352,7 +342,6 @@
       <jump line="33" column="2" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
       <jump line="133" column="10" filename="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" />
       <jump line="81" column="39" filename="$USER_HOME$/span-ui/src/pages/login/LoginPage.tsx" />
-      <jump line="45" column="10" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="293" column="14" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="78" column="2" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="421" column="22" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
@@ -386,7 +375,6 @@
       <jump line="527" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="540" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="784" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="233" column="38" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="585" column="59" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="596" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
@@ -395,55 +383,78 @@
       <jump line="643" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="666" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="722" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="206" column="10" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="104" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="271" column="18" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="27" column="44" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="121" column="20" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="122" column="22" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="128" column="22" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="299" column="54" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="45" column="17" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="775" column="16" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="123" column="18" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="45" column="16" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="173" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="190" column="25" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="204" column="28" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="261" column="22" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
+      <jump line="301" column="70" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="300" column="71" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
+      <jump line="260" column="55" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
+      <jump line="31" column="2" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Me&quot;</text>
+        <text>.endpoint.cpu</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Me&quot;</text>
+        <text>.endpoint.cpu</text>
       </register>
       <register name="/" type="4">
-        <text>\/run</text>
+        <text>endpoint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsdWU6IGkxOG4udChrZXlzLmNvbW1vbl9tZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMucHJvcHMuZW5kcG9pbnQgJiYgdGhpcy5wcm9wcy5lbmRwb2ludC5lbnZpcm9ubWVudC5wdWJsaWNfaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMucHJvcHMucnVuICYmIHRoaXMucHJvcHMucnVuLnJlc291cmNlcy5jcHUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbGFiZWw6IGkxOG4udChrZXlzLnBhZ2VfcGlwZWxpbmVfdmlld19pbmZvX3NvdXJjZV9sYWJlbCksCiAgICAgICAgICAgICAgICAgIHZhbHVlOiAoCiAgICAgICAgICAgICAgICAgICAgPFJlcG9zaXRvcnlTb3VyY2VSZW5kZXJlcgogICAgICAgICAgICAgICAgICAgICAgdmFsdWU9ewogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLnJ1biAmJgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLnJ1bi5waXBlbGluZS5waXBlbGluZV9zb3VyY2UKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBsYWJlbDogaTE4bi50KGtleXMucGFnZV9waXBlbGluZV92aWV3X2luZm9fY29tbWl0X2xhYmVsKSwKICAgICAgICAgICAgICAgICAgdmFsdWU6ICgKICAgICAgICAgICAgICAgICAgICA8UmVwb3NpdG9yeVNvdXJjZUNvbW1pdFJlbmRlcmVyCiAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5wcm9wcy5ydW4gJiYgdGhpcy5wcm9wcy5ydW4ucnVuX3NvdXJjZX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52Lk5PREVfRU5WKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGFiZWw6ICJNZW1vcnkiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigidXNlcjEiKTsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgbG9naW5CdXR0b25DbGlja2VkOiB0cnVlIH0pOwogICAgICAgICAgICB9fQogICAgICAgICAgPgogICAgICAgICAgICBMb2dpbiBhcyB1c2VyMQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGFiZWw6ICJDUFUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigidXNlcjEiKTsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgbG9naW5CdXR0b25DbGlja2VkOiB0cnVlIH0pOwogICAgICAgICAgICB9fQogICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbGFiZWw6ICJFbnZpcm9ubWVudCIsCiAgICAgICAgICAgICAgICAgIHZhbHVlOiB0aGlzLnByb3BzLnJ1biAmJiB0aGlzLnByb3BzLnJ1bi5yZXNvdXJjZXMuZXBoZW1lcmFsX3N0b3JhZ2UKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFsdWU6IGkxOG4udChrZXlzLmNvbW1vbl9tZSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYXV0b0ZvY3VzCiAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNub3dmbGFrZUJ1dHRvblN0eWxpbmd9CiAgICAgICAgICAgIGNvbG9yPXtCdXR0b25TdHlsZS5QcmltYXJ5fQogICAgICAgICAgICBkYXRhLWN5PSJzdWJtaXQiCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZH0KICAgICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5oYW5kbGVMb2dpbigpOwogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBsb2dpbkJ1dHRvbkNsaWNrZWQ6IHRydWUgfSk7CiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0aGlzLnN0YXRlLmxvZ2luQnV0dG9uQ2xpY2tlZAogICAgICAgICAgICAgID8gaTE4bi50KGtleXMubG9naW5fbG9naW5fYnV0dG9uX2NsaWNrZWQpCiAgICAgICAgICAgICAgOiBpMThuLnQoa2V5cy5sb2dpbl9sb2dpbl9idXR0b24pfQogICAgICAgICAgPC9CdXR0b24+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbGFiZWw6IGkxOG4udChrZXlzLnBhZ2VfcGlwZWxpbmVfdmlld19pbmZvX2VuZHBvaW50X2xhYmVsKSwKICAgICAgICAgICAgICAgICAgdmFsdWU6ICItIgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>\/run</last-search>
+      <last-search>endpoint</last-search>
       <last-offset />
-      <last-pattern>\/run</last-pattern>
+      <last-pattern>endpoint</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -451,13 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.props.run</entry>
-        <entry>\ccommit</entry>
-        <entry>NoRunError</entry>
-        <entry>router</entry>
-        <entry>a[i</entry>
-        <entry>api</entry>
-        <entry>status</entry>
         <entry>isLoading</entry>
         <entry>\cuser</entry>
         <entry>\cuser_id</entry>
@@ -471,6 +475,13 @@
         <entry>pipeline</entry>
         <entry>\/pipeline</entry>
         <entry>\/run</entry>
+        <entry>me</entry>
+        <entry>Environment</entry>
+        <entry>CPU</entry>
+        <entry>Infobox</entry>
+        <entry>\cinfo</entry>
+        <entry>console</entry>
+        <entry>endpoint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PipelineRunDAO/pipeline_run_dao/g</entry>
@@ -491,8 +502,8 @@
         <entry>357</entry>
         <entry>292</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
