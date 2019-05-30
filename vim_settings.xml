@@ -36,8 +36,8 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1559203084930">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1559207546072">
+        <mark key="'" line="235" column="45" />
       </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
         <mark key="'" line="0" column="44" />
@@ -97,12 +97,11 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="48" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1558588332721">
-        <mark key="'" line="207" column="28" />
-        <mark key="[" line="119" column="29" />
-        <mark key="]" line="119" column="35" />
-        <mark key="." line="119" column="35" />
-        <mark key="^" line="119" column="35" />
+      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1559207728995">
+        <mark key="'" line="210" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/BedrockInput/BedrockInput.tsx" timestamp="1559202536993">
         <mark key="'" line="6" column="46" />
@@ -305,6 +304,13 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" timestamp="1559208133492">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="34" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/span/tests/domain/test_model_service.py" timestamp="1554797579088">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="28" column="47" />
@@ -348,10 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="38" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="405" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="433" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="465" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="475" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="527" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="540" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
@@ -448,10 +450,14 @@
       <jump line="50" column="40" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="348" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="235" column="45" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="210" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
+      <jump line="2" column="2" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -460,34 +466,36 @@
         <text>inputcommit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudFRleHQ9e3RoaXMucHJvcHMucnVuLnJ1bl9zb3VyY2UucmVmfQo=</text>
+        <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgICJjb21tb25fbGlua19jb21taXRfdGl0bGUiOiAiTGluayBjb21taXQiLAogICAgImNvbW1vbl9saW5rZWRfZ2l0X3JlcG8iOiAiTGlua2VkIEdpdCByZXBvc2l0b3J5IiwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZXdSdW5Db21taXRSYWRpb0lucHV0fSBmcm9tICJAc3JjL2NvbXBvbmVudHMvTmV3UnVuQ29tbWl0UmFkaW9JbnB1dCI7CmltcG9ydCB7SU5ld1J1bkZvcm1WYWx1ZXN9IGZyb20gIkBzcmMvcGFnZXMvcnVuL25ldyI7Cg==</text>
+      <register name="2" type="8">
+        <text>_new
+_new</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0SWQ6ICdhJywK</text>
+      <register name="3" type="8">
+        <text>page_run
+page_run</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaW5wdXRDb21taXR9Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtOZXdSdW5Db21taXRSYWRpb0lucHV0fSBmcm9tICJAc3JjL2NvbXBvbmVudHMvTmV3UnVuQ29tbWl0UmFkaW9JbnB1dCI7CmltcG9ydCB7SU5ld1J1bkZvcm1WYWx1ZXN9IGZyb20gIkBzcmMvcGFnZXMvcnVuL25ldyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgY29tbWl0SWQ6ICdhJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaW5wdXRDb21taXR9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8Pgo=</text>
+        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDcHVIZWxwVGV4dCAvPgo=</text>
+        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
