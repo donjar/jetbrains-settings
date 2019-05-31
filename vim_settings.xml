@@ -36,8 +36,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1559207546072">
-        <mark key="'" line="235" column="45" />
+      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1559285473704">
+        <mark key="[" line="353" column="6" />
+        <mark key="]" line="353" column="6" />
+        <mark key="^" line="354" column="32" />
+        <mark key="." line="353" column="6" />
       </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
         <mark key="'" line="0" column="44" />
@@ -277,11 +280,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1559197938137">
-        <mark key="[" line="101" column="30" />
-        <mark key="]" line="101" column="31" />
-        <mark key="^" line="101" column="30" />
-        <mark key="." line="101" column="31" />
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1559285268810">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="808" column="57" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
@@ -354,14 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="475" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="527" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="540" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="784" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="233" column="38" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="585" column="59" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="596" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="607" column="59" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="617" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="643" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="666" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
@@ -427,7 +423,6 @@
       <jump line="143" column="32" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
       <jump line="10" column="57" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
       <jump line="30" column="13" filename="$USER_HOME$/span-ui/src/components/NewRunCommitRadioInput/NewRunCommitRadioInput.tsx" />
-      <jump line="250" column="36" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="256" column="45" filename="$USER_HOME$/span-ui/src/pages/run/new/NewRunPage.tsx" />
       <jump line="55" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="178" column="14" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
@@ -449,62 +444,71 @@
       <jump line="253" column="40" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="50" column="40" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="348" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="235" column="45" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
       <jump line="210" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
       <jump line="2" column="2" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
+      <jump line="235" column="45" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="266" column="36" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="341" column="12" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="250" column="36" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="61" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="325" column="19" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="101" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="353" column="18" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="396" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="356" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>inputcommit</text>
+        <text>=====</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBtb2RlbFNvdXJjZVNlcnZlckNvbW1pdD86IHN0cmluZzsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJjb21tb25fbGlua19jb21taXRfdGl0bGUiOiAiTGluayBjb21taXQiLAogICAgImNvbW1vbl9saW5rZWRfZ2l0X3JlcG8iOiAiTGlua2VkIEdpdCByZXBvc2l0b3J5IiwK</text>
       </register>
-      <register name="2" type="8">
+      <register name="8" type="8">
         <text>_new
 _new</text>
       </register>
-      <register name="3" type="8">
+      <register name="9" type="8">
         <text>page_run
 page_run</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZXdSdW5Db21taXRSYWRpb0lucHV0fSBmcm9tICJAc3JjL2NvbXBvbmVudHMvTmV3UnVuQ29tbWl0UmFkaW9JbnB1dCI7CmltcG9ydCB7SU5ld1J1bkZvcm1WYWx1ZXN9IGZyb20gIkBzcmMvcGFnZXMvcnVuL25ldyI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tbWl0SWQ6ICdhJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuaW5wdXRDb21taXR9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb21taXRJZDogc3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inputcommit</last-search>
+      <last-search>=====</last-search>
       <last-offset />
-      <last-pattern>inputcommit</last-pattern>
+      <last-pattern>=====</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +516,6 @@ page_run</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZVw+</entry>
         <entry>Me</entry>
         <entry encoding="base64">XDxNZVw+</entry>
         <entry>pipeline</entry>
@@ -532,6 +535,7 @@ page_run</text>
         <entry>mono</entry>
         <entry>styles.</entry>
         <entry>inputcommit</entry>
+        <entry>=====</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ModelServerDAO/model_server_dao/g</entry>
