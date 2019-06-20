@@ -56,12 +56,11 @@
         <mark key="^" line="236" column="31" />
         <mark key="." line="236" column="31" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" timestamp="1561019600877">
-        <mark key="'" line="342" column="20" />
-        <mark key="[" line="347" column="48" />
-        <mark key="]" line="347" column="55" />
-        <mark key="^" line="347" column="55" />
-        <mark key="." line="347" column="55" />
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" timestamp="1561020920549">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/AuthCallback/AuthCallback.tsx" timestamp="1558590977858">
         <mark key="'" line="23" column="0" />
@@ -110,6 +109,12 @@
         <mark key="]" line="47" column="24" />
         <mark key="^" line="47" column="24" />
         <mark key="." line="47" column="24" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1559207728995">
+        <mark key="'" line="210" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/BedrockInput/BedrockInput.tsx" timestamp="1559202536993">
         <mark key="'" line="6" column="46" />
@@ -425,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="18" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/list/ViewTrainingPipelinesPageContainer.ts" />
       <jump line="126" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
       <jump line="18" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
@@ -525,57 +529,57 @@
       <jump line="787" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="500" column="24" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="176" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="116" column="8" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newtrainingpipeline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
       </register>
       <register name="-" type="4">
         <text>newtrainingpipeline</text>
       </register>
       <register name="/" type="4">
-        <text>Run</text>
+        <text encoding="base64">XDxoZWFkZXJUYWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
+        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb2RlbFNvdXJjZVNlcnZlckNvbW1pdD86IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBtb2RlbFNvdXJjZVNlcnZlckNvbW1pdD86IHN0cmluZzsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJjb21tb25fbGlua19jb21taXRfdGl0bGUiOiAiTGluayBjb21taXQiLAogICAgImNvbW1vbl9saW5rZWRfZ2l0X3JlcG8iOiAiTGlua2VkIEdpdCByZXBvc2l0b3J5IiwK</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>_new
 _new</text>
-      </register>
-      <register name="9" type="8">
-        <text>page_run
-page_run</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Run</last-search>
+      <last-search encoding="base64">XDxoZWFkZXJUYWdcPg==</last-search>
       <last-offset />
-      <last-pattern>Run</last-pattern>
+      <last-pattern encoding="base64">XDxoZWFkZXJUYWdcPg==</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +587,6 @@ page_run</text>
     </search>
     <history>
       <history-search>
-        <entry>pipeline</entry>
         <entry>\/pipeline</entry>
         <entry>\/run</entry>
         <entry>me</entry>
@@ -603,6 +606,7 @@ page_run</text>
         <entry>=====</entry>
         <entry>Pipeline</entry>
         <entry>Run</entry>
+        <entry encoding="base64">XDxoZWFkZXJUYWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ModelServerDAO/model_server_dao/g</entry>
