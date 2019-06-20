@@ -110,11 +110,11 @@
         <mark key="^" line="47" column="24" />
         <mark key="." line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1559207728995">
-        <mark key="'" line="210" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/span-ui/.tscache/src/static/i18n/lang/en/en.json" timestamp="1561022584599">
+        <mark key="'" line="283" column="9" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1561022585349">
+        <mark key="'" line="157" column="5" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/BedrockInput/BedrockInput.tsx" timestamp="1559202536993">
         <mark key="'" line="6" column="46" />
@@ -430,13 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
-      <jump line="18" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
-      <jump line="31" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
-      <jump line="32" column="21" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
-      <jump line="49" column="32" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="96" column="50" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
       <jump line="80" column="47" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
       <jump line="73" column="55" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
@@ -530,56 +523,62 @@
       <jump line="500" column="24" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="176" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
       <jump line="116" column="8" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="266" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="40" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="207" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="157" column="44" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="158" column="47" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
+      <jump line="283" column="9" filename="$USER_HOME$/span-ui/.tscache/src/static/i18n/lang/en/en.json" />
+      <jump line="283" column="5" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
+        <text encoding="base64">ICAgICJwYWdlX3RyYWluaW5nX3BpcGVsaW5lX2xpc3RfcGFnZV90aXRsZSI6ICJUcmFpbmluZyBwaXBlbGluZXMiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>newtrainingpipeline</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkZXJUYWdcPg==</text>
+        <text>view_page_title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
+        <text encoding="base64">ICAgICJwYWdlX3RyYWluaW5nX3BpcGVsaW5lX2xpc3RfcGFnZV90aXRsZSI6ICJUcmFpbmluZyBwaXBlbGluZXMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICJwYWdlX3RyYWluaW5nX3BpcGVsaW5lX3RpdGxlIjogIkNyZWF0ZSB0cmFpbmluZyBwaXBlbGluZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
+        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtb2RlbFNvdXJjZVNlcnZlckNvbW1pdD86IHN0cmluZzsK</text>
+        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb21tb25fbGlua19jb21taXRfdGl0bGUiOiAiTGluayBjb21taXQiLAogICAgImNvbW1vbl9saW5rZWRfZ2l0X3JlcG8iOiAiTGlua2VkIEdpdCByZXBvc2l0b3J5IiwK</text>
+        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
       </register>
-      <register name="9" type="8">
-        <text>_new
-_new</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBtb2RlbFNvdXJjZVNlcnZlckNvbW1pdD86IHN0cmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkZXJUYWdcPg==</last-search>
+      <last-search>view_page_title</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkZXJUYWdcPg==</last-pattern>
+      <last-pattern>view_page_title</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -587,9 +586,6 @@ _new</text>
     </search>
     <history>
       <history-search>
-        <entry>\/pipeline</entry>
-        <entry>\/run</entry>
-        <entry>me</entry>
         <entry>Environment</entry>
         <entry>CPU</entry>
         <entry>\cinfo</entry>
@@ -607,6 +603,9 @@ _new</text>
         <entry>Pipeline</entry>
         <entry>Run</entry>
         <entry encoding="base64">XDxoZWFkZXJUYWdcPg==</entry>
+        <entry>pipeline</entry>
+        <entry>\ctraining</entry>
+        <entry>view_page_title</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ModelServerDAO/model_server_dao/g</entry>
