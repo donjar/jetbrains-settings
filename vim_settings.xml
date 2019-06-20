@@ -24,10 +24,9 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/new/NewRunPage.tsx" timestamp="1559197947223">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="257" column="44" />
-        <mark key="]" line="257" column="64" />
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" timestamp="1561018982599">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/AuthorizedRoute/AuthorizedRouteContainer.ts" timestamp="1558590902283">
         <mark key="'" line="0" column="0" />
@@ -35,12 +34,6 @@
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" timestamp="1559285473704">
-        <mark key="[" line="353" column="6" />
-        <mark key="]" line="353" column="6" />
-        <mark key="^" line="354" column="32" />
-        <mark key="." line="353" column="6" />
       </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
         <mark key="'" line="0" column="44" />
@@ -55,6 +48,20 @@
         <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" timestamp="1561019092223">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="238" column="17" />
+        <mark key="]" line="236" column="31" />
+        <mark key="^" line="236" column="31" />
+        <mark key="." line="236" column="31" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" timestamp="1561019600877">
+        <mark key="'" line="342" column="20" />
+        <mark key="[" line="347" column="48" />
+        <mark key="]" line="347" column="55" />
+        <mark key="^" line="347" column="55" />
+        <mark key="." line="347" column="55" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/AuthCallback/AuthCallback.tsx" timestamp="1558590977858">
         <mark key="'" line="23" column="0" />
@@ -84,6 +91,13 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" timestamp="1561019001991">
+        <mark key="'" line="141" column="42" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+      </file>
       <file name="$USER_HOME$/span/tests/conftest.py" timestamp="1556000253966">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="8" column="43" />
@@ -91,20 +105,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" timestamp="1558591898746">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="294" column="71" />
-      </file>
-      <file name="$USER_HOME$/span-ui/src/components/NewRunCommitRadioInput/NewRunCommitRadioInput.tsx" timestamp="1559197644531">
-        <mark key="'" line="109" column="42" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="48" />
-      </file>
-      <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1559207728995">
-        <mark key="'" line="210" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/edit/EditTrainingPipelinePage.tsx" timestamp="1561018827293">
+        <mark key="'" line="178" column="40" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/BedrockInput/BedrockInput.tsx" timestamp="1559202536993">
         <mark key="'" line="6" column="46" />
@@ -149,6 +154,9 @@
         <mark key="]" line="71" column="58" />
         <mark key="^" line="71" column="58" />
         <mark key="." line="71" column="58" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" timestamp="1561019422154">
+        <mark key="'" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/span-ui/src/components/App/App.tsx" timestamp="1557911282925">
         <mark key="'" line="234" column="2" />
@@ -206,6 +214,13 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" timestamp="1561019500282">
+        <mark key="'" line="116" column="22" />
+        <mark key="[" line="116" column="14" />
+        <mark key="]" line="116" column="21" />
+        <mark key="^" line="116" column="21" />
+        <mark key="." line="116" column="21" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/pages/endpoint/list/ListEndpointsPage.tsx" timestamp="1558591509187">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="18" />
@@ -213,12 +228,24 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewTrainingPipelinePageContainer.tsx" timestamp="1561019228775">
+        <mark key="]" line="79" column="24" />
+        <mark key="^" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" timestamp="1558591863561">
         <mark key="'" line="10" column="57" />
         <mark key="[" line="61" column="4" />
         <mark key="]" line="61" column="14" />
         <mark key="." line="61" column="14" />
         <mark key="^" line="61" column="14" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/list/ViewTrainingPipelinesPage.tsx" timestamp="1561018954751">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
       </file>
       <file name="$USER_HOME$/span/tests/airflow/test_run_pipeline_operator.py" timestamp="1556007403095">
         <mark key="'" line="36" column="49" />
@@ -241,12 +268,29 @@
         <mark key="." line="87" column="47" />
         <mark key="^" line="87" column="47" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" timestamp="1561019226537">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/reducers/run.ts" timestamp="1557200454695">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPageContainer.ts" timestamp="1561019605210">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPage.tsx" timestamp="1561019401232">
+        <mark key="'" line="69" column="31" />
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="24" />
+        <mark key="^" line="86" column="24" />
+        <mark key="." line="86" column="24" />
       </file>
       <file name="$USER_HOME$/span/span/domain/exceptions.py" timestamp="1555382798052">
         <mark key="'" line="0" column="0" />
@@ -276,16 +320,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/components/NewRunCommitRadioInput/newruncommitradioinput.scss" timestamp="1559197624914">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1559285268810">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="808" column="57" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1561019775582">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="522" column="17" />
+        <mark key="]" line="522" column="24" />
+        <mark key="^" line="522" column="24" />
+        <mark key="." line="522" column="24" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
@@ -294,12 +334,24 @@
         <mark key="^" line="95" column="37" />
         <mark key="." line="95" column="37" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/edit/EditTrainingPipelinePageContainer.tsx" timestamp="1561019964099">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/edit/EditPipelinePageContainer.tsx" timestamp="1561018860359">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" timestamp="1558591244285">
         <mark key="'" line="253" column="12" />
         <mark key="[" line="254" column="18" />
         <mark key="]" line="254" column="28" />
         <mark key="." line="254" column="28" />
         <mark key="^" line="254" column="28" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPageContainer.tsx" timestamp="1561019518365">
+        <mark key="'" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/login/LoginPageContainer.ts" timestamp="1558591190221">
         <mark key="'" line="11" column="5" />
@@ -336,6 +388,12 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/edit/EditPipelinePage.tsx" timestamp="1561018814256">
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+      </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/model_artefact.py" timestamp="1556863460022">
         <mark key="'" line="18" column="18" />
         <mark key="[" line="0" column="0" />
@@ -349,6 +407,15 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/list/ViewTrainingPipelinesPageContainer.ts" timestamp="1561018968175">
+        <mark key="'" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewTrainingPipelinePage.tsx" timestamp="1561019095849">
+        <mark key="'" line="239" column="24" />
+        <mark key="]" line="238" column="24" />
+        <mark key="^" line="238" column="24" />
+        <mark key="." line="238" column="24" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/styles/forms.scss" timestamp="1559202985470">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="78" column="20" />
@@ -358,116 +425,116 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="617" column="58" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="643" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="666" column="44" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="722" column="33" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="206" column="10" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="104" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="271" column="18" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="27" column="44" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="121" column="20" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="122" column="22" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="128" column="22" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="299" column="54" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="45" column="17" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="775" column="16" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="123" column="18" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="45" column="16" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="173" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="190" column="25" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="204" column="28" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="261" column="22" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="301" column="70" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="300" column="71" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/view/ViewRunPage.tsx" />
-      <jump line="260" column="55" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="31" column="2" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="6" column="55" filename="$USER_HOME$/span-ui/test/fixtures/runs.ts" />
-      <jump line="155" column="0" filename="$USER_HOME$/span-ui/test/fixtures/runs.ts" />
-      <jump line="62" column="8" filename="$USER_HOME$/span-ui/test/fixtures/servers.ts" />
-      <jump line="13" column="13" filename="$USER_HOME$/span-ui/src/i18n.ts" />
-      <jump line="149" column="1" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="142" column="2" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="197" column="47" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="194" column="3" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/index.tsx" />
-      <jump line="137" column="3" filename="$USER_HOME$/span-ui/src/index.tsx" />
-      <jump line="117" column="5" filename="$USER_HOME$/span-ui/src/index.tsx" />
-      <jump line="93" column="3" filename="$USER_HOME$/span-ui/src/index.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/AuthorizedRoute/AuthorizedRouteContainer.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/span-ui/src/components/AuthCallback/AuthCallback.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/AuthCallback/__tests__/AuthCallback.test.tsx" />
-      <jump line="8" column="5" filename="$USER_HOME$/span-ui/src/components/AuthCallback/__tests__/AuthCallback.test.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipeline.ts" />
-      <jump line="69" column="7" filename="$USER_HOME$/span-ui/src/reducers/featurePipeline.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/reducers/__tests__/pipeline.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/reducers/pipeline.ts" />
-      <jump line="24" column="17" filename="$USER_HOME$/span-ui/src/pages/login/LoginPageContainer.ts" />
-      <jump line="11" column="5" filename="$USER_HOME$/span-ui/src/pages/login/LoginPageContainer.ts" />
-      <jump line="248" column="14" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="253" column="12" filename="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" />
-      <jump line="59" column="41" filename="$USER_HOME$/span-ui/src/pages/endpoint/list/ListEndpointsPage.tsx" />
-      <jump line="30" column="5" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePageContainer.tsx" />
-      <jump line="35" column="23" filename="$USER_HOME$/span-ui/src/pages/endpoint/list/ListEndpointsPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/endpoint/list/ListEndpointsPage.tsx" />
-      <jump line="105" column="16" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.test.tsx" />
-      <jump line="103" column="11" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.test.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.test.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/components/AuthManager/AuthManagerContainer.ts" />
-      <jump line="177" column="20" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
-      <jump line="143" column="32" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
-      <jump line="10" column="57" filename="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" />
-      <jump line="30" column="13" filename="$USER_HOME$/span-ui/src/components/NewRunCommitRadioInput/NewRunCommitRadioInput.tsx" />
-      <jump line="256" column="45" filename="$USER_HOME$/span-ui/src/pages/run/new/NewRunPage.tsx" />
-      <jump line="55" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="178" column="14" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="109" column="42" filename="$USER_HOME$/span-ui/src/components/NewRunCommitRadioInput/NewRunCommitRadioInput.tsx" />
-      <jump line="251" column="23" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="309" column="35" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="114" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="62" column="10" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="326" column="19" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/new/NewRunPage.tsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="249" column="23" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="2" column="0" filename="$USER_HOME$/span-ui/src/styles/forms.scss" />
-      <jump line="6" column="46" filename="$USER_HOME$/span-ui/src/components/BedrockInput/BedrockInput.tsx" />
-      <jump line="51" column="46" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/styles/forms.scss" />
-      <jump line="78" column="0" filename="$USER_HOME$/span-ui/src/styles/forms.scss" />
-      <jump line="158" column="21" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="253" column="40" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="50" column="40" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="348" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="210" column="4" filename="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
-      <jump line="2" column="2" filename="$USER_HOME$/span-ui/libui/src/styles/fonts.scss" />
-      <jump line="235" column="45" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="266" column="36" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="341" column="12" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="250" column="36" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="61" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="325" column="19" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
-      <jump line="353" column="18" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="396" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
-      <jump line="356" column="0" filename="$USER_HOME$/span-ui/src/pages/run/deploy/DeployRunPage.tsx" />
+      <jump line="24" column="18" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/list/ViewTrainingPipelinesPageContainer.ts" />
+      <jump line="126" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
+      <jump line="18" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
+      <jump line="31" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
+      <jump line="32" column="21" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" />
+      <jump line="49" column="32" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="96" column="50" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="80" column="47" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="73" column="55" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="18" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="31" column="34" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="32" column="21" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="34" column="24" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="122" column="29" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="123" column="65" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="126" column="13" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="141" column="42" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
+      <jump line="143" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="32" column="13" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="33" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="34" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="35" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="36" column="12" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="38" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="39" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="47" column="25" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="48" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="52" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="57" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="62" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="71" column="63" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="77" column="18" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="82" column="22" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="95" column="57" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="103" column="61" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="133" column="36" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
+      <jump line="239" column="24" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewTrainingPipelinePage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="3" column="7" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="4" column="7" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="5" column="7" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="6" column="6" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="9" column="5" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="10" column="5" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="12" column="5" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="15" column="88" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="19" column="24" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="24" column="35" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="30" column="24" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="32" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePageContainer.tsx" />
+      <jump line="355" column="5" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPage.tsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPage.tsx" />
+      <jump line="76" column="2" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPage.tsx" />
+      <jump line="69" column="31" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="2" column="48" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="5" column="8" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="8" column="5" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="9" column="9" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="12" column="23" filename="$USER_HOME$/span-ui/src/pages/trainingRun/deploy/DeployTrainingRunPageContainer.tsx" />
+      <jump line="274" column="38" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="25" column="59" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="30" column="41" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="34" column="6" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="35" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="55" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="57" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="58" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="90" column="29" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="98" column="29" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="106" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="112" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="116" column="22" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPageContainer.tsx" />
+      <jump line="16" column="46" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPageContainer.tsx" />
+      <jump line="79" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/new/NewTrainingRunPageContainer.tsx" />
+      <jump line="254" column="30" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="17" column="57" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="41" column="30" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="43" column="13" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="44" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="45" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="48" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="53" column="30" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="57" column="43" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="58" column="43" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="63" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="60" column="68" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="342" column="20" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPage.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingRun/view/ViewTrainingRunPageContainer.ts" />
+      <jump line="787" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="500" column="24" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="176" column="0" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>newtrainingpipeline</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>newtrainingpipeline</text>
       </register>
       <register name="/" type="4">
-        <text>=====</text>
+        <text>Run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmb250LWZlYXR1cmUtc2V0dGluZ3M6ICJsaWdhIiAwOwo=</text>
@@ -506,9 +573,9 @@ page_run</text>
       </register>
     </registers>
     <search>
-      <last-search>=====</last-search>
+      <last-search>Run</last-search>
       <last-offset />
-      <last-pattern>=====</last-pattern>
+      <last-pattern>Run</last-pattern>
       <last-replace>model_server_dao</last-replace>
       <last-substitute>ModelServerDAO</last-substitute>
       <last-dir>1</last-dir>
@@ -516,8 +583,6 @@ page_run</text>
     </search>
     <history>
       <history-search>
-        <entry>Me</entry>
-        <entry encoding="base64">XDxNZVw+</entry>
         <entry>pipeline</entry>
         <entry>\/pipeline</entry>
         <entry>\/run</entry>
@@ -536,6 +601,8 @@ page_run</text>
         <entry>styles.</entry>
         <entry>inputcommit</entry>
         <entry>=====</entry>
+        <entry>Pipeline</entry>
+        <entry>Run</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ModelServerDAO/model_server_dao/g</entry>
@@ -555,8 +622,8 @@ page_run</text>
         <entry>357</entry>
         <entry>292</entry>
         <entry>31</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
