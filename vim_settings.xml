@@ -27,16 +27,19 @@
       <file name="$USER_HOME$/span-ui/src/pages/featurePipeline/view/ViewFeaturePipelinePageContainer.tsx" timestamp="1561444825538">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewPipelinePage.tsx" timestamp="1561018982599">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="34" column="16" />
-      </file>
       <file name="$USER_HOME$/span-ui/src/components/AuthorizedRoute/AuthorizedRouteContainer.ts" timestamp="1558590902283">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="10" />
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/actions/trainingRun.ts" timestamp="1561626334652">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/span/span/infrastructure/repository/base_sql.py" timestamp="1554796316170">
         <mark key="'" line="0" column="44" />
@@ -100,6 +103,12 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/pages/batchScoringPipeline/edit/EditBatchScoringPipelinePage.tsx" timestamp="1561626654625">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+      </file>
       <file name="$USER_HOME$/span/tests/conftest.py" timestamp="1556000253966">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="8" column="43" />
@@ -107,14 +116,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/edit/EditTrainingPipelinePage.tsx" timestamp="1561018827293">
-        <mark key="'" line="178" column="40" />
-        <mark key="]" line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-      </file>
       <file name="$USER_HOME$/span-ui/.tscache/src/static/i18n/lang/en/en.json" timestamp="1561022584599">
         <mark key="'" line="283" column="9" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/services/span/index.ts" timestamp="1561625924657">
+        <mark key="'" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/span-ui/src/static/i18n/lang/en/en.json" timestamp="1561022585349">
         <mark key="'" line="157" column="5" />
@@ -201,6 +207,13 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="69" column="23" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" timestamp="1561626019172">
+        <mark key="'" line="127" column="8" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/NoRunError.tsx" timestamp="1557194362856">
         <mark key="'" line="12" column="44" />
         <mark key="[" line="13" column="35" />
@@ -215,8 +228,15 @@
         <mark key="." line="127" column="78" />
         <mark key="^" line="127" column="78" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" timestamp="1557205649319">
-        <mark key="'" line="59" column="26" />
+      <file name="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" timestamp="1561626152792">
+        <mark key="'" line="40" column="59" />
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" timestamp="1561626841041">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="14" />
         <mark key="^" line="13" column="14" />
@@ -236,10 +256,19 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewTrainingPipelinePageContainer.tsx" timestamp="1561019228775">
-        <mark key="]" line="79" column="24" />
-        <mark key="^" line="79" column="24" />
-        <mark key="." line="79" column="24" />
+      <file name="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" timestamp="1561626927296">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="22" />
+      </file>
+      <file name="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" timestamp="1561626312545">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/pipeline/view/ViewPipelinePage.tsx" timestamp="1558591863561">
         <mark key="'" line="10" column="57" />
@@ -314,12 +343,12 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1557205821266">
+      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1561626837787">
         <mark key="'" line="26" column="19" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/span-ui/src/i18n.ts" timestamp="1558590683917">
         <mark key="'" line="13" column="13" />
@@ -328,12 +357,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1561019775582">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="522" column="17" />
-        <mark key="]" line="522" column="24" />
-        <mark key="^" line="522" column="24" />
-        <mark key="." line="522" column="24" />
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1561626702905">
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="87" column="25" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
@@ -353,10 +382,7 @@
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/featurePipeline/view/FeaturePreview/FeaturePreviewPageContainer.tsx" timestamp="1561445275361">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="107" />
-        <mark key="^" line="41" column="6" />
-        <mark key="." line="12" column="36" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/endpoint/view/ViewEndpointPage.tsx" timestamp="1558591244285">
         <mark key="'" line="253" column="12" />
@@ -425,12 +451,6 @@
       <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/list/ViewTrainingPipelinesPageContainer.ts" timestamp="1561018968175">
         <mark key="'" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewTrainingPipelinePage.tsx" timestamp="1561019095849">
-        <mark key="'" line="239" column="24" />
-        <mark key="]" line="238" column="24" />
-        <mark key="^" line="238" column="24" />
-        <mark key="." line="238" column="24" />
-      </file>
       <file name="$USER_HOME$/span-ui/src/styles/forms.scss" timestamp="1559202985470">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="78" column="20" />
@@ -440,30 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="34" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="32" column="21" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="34" column="24" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="129" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="122" column="29" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="123" column="65" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="126" column="13" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="141" column="42" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/new/NewTrainingPipelinePage.tsx" />
-      <jump line="143" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="31" column="0" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="32" column="13" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="33" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="34" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="35" column="11" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="36" column="12" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="38" column="14" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="39" column="17" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="47" column="25" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="48" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="52" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="57" column="26" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="62" column="15" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="71" column="63" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
-      <jump line="77" column="18" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="82" column="22" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="95" column="57" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="103" column="61" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
@@ -540,68 +536,86 @@
       <jump line="12" column="3" filename="$USER_HOME$/span-ui/src/pages/featurePipeline/view/FeaturePreview/FeaturePreviewPageContainer.tsx" />
       <jump line="40" column="27" filename="$USER_HOME$/span-ui/src/pages/featurePipeline/view/FeaturePreview/FeaturePreviewPageContainer.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/pages/featurePipeline/view/FeaturePreview/FeaturePreviewPageContainer.tsx" />
+      <jump line="14" column="24" filename="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" />
+      <jump line="103" column="10" filename="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" />
+      <jump line="9" column="37" filename="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" />
+      <jump line="8" column="25" filename="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" />
+      <jump line="0" column="19" filename="$USER_HOME$/span-ui/src/services/span/index.ts" />
+      <jump line="31" column="17" filename="$USER_HOME$/span-ui/src/services/span/api.ts" />
+      <jump line="127" column="8" filename="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" />
+      <jump line="15" column="8" filename="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" />
+      <jump line="26" column="19" filename="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" />
+      <jump line="2" column="37" filename="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" />
+      <jump line="25" column="11" filename="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" />
+      <jump line="30" column="30" filename="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" />
+      <jump line="35" column="63" filename="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" />
+      <jump line="40" column="59" filename="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" />
+      <jump line="2" column="3" filename="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" />
+      <jump line="19" column="8" filename="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" />
+      <jump line="2" column="2" filename="$USER_HOME$/span-ui/src/actions/trainingRun.ts" />
+      <jump line="20" column="2" filename="$USER_HOME$/span-ui/src/actions/trainingRun.ts" />
+      <jump line="39" column="0" filename="$USER_HOME$/span-ui/src/actions/trainingRun.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/actions/trainingRun.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
+      <jump line="25" column="15" filename="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYgeyBlbnZpcm9ubWVudHM6IElFbnZpcm9ubWVudFtdOyBmZWF0dXJlUHJldmlldzogSUZlYXR1cmVQcmV2aWV3W107IH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBydW46IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFydGlhbDw=</text>
+        <text>trainingRun</text>
       </register>
       <register name="/" type="4">
-        <text>view_page_title</text>
+        <text>_RUN_</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICYgeyBlbnZpcm9ubWVudHM6IElFbnZpcm9ubWVudFtdOyBmZWF0dXJlUHJldmlldzogSUZlYXR1cmVQcmV2aWV3W107IH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOiBuby1lbXB0eS1pbnRlcmZhY2UKZXhwb3J0IGludGVyZmFjZSBJRmVhdHVyZVBpcGVsaW5lUnVuIGV4dGVuZHMgSVBpcGVsaW5lUnVuIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7fSwK</text>
+        <text encoding="base64">ICAgICAgICBydW46IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYWdlX3RyYWluaW5nX3BpcGVsaW5lX2xpc3RfcGFnZV90aXRsZSI6ICJUcmFpbmluZyBwaXBlbGluZXMiLAo=</text>
+        <text encoding="base64">ICBydW46IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwYWdlX3RyYWluaW5nX3BpcGVsaW5lX3RpdGxlIjogIkNyZWF0ZSB0cmFpbmluZyBwaXBlbGluZSIsCg==</text>
+        <text encoding="base64">ICBJU3BhbkFwaUVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucnVuKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICB2YWx1ZXMuZGVwbG95TmFtZSwKICAgICAgdmFsdWVzLmVudmlyb25tZW50UHVibGljSWQsCg==</text>
+        <text encoding="base64">ICBJVHJhaW5pbmdQaXBlbGluZVJ1biwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICBJVHJhaW5pbmdQaXBlbGluZSwKICBJVHJhaW5pbmdQaXBlbGluZVJ1biwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb2RlbF9zZXJ2ZXJfc291cmNlX2NvbW1pdD86IHN0cmluZzsK</text>
+        <text encoding="base64">Ci8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTogbm8tZW1wdHktaW50ZXJmYWNlCmV4cG9ydCBpbnRlcmZhY2UgSUZlYXR1cmVQaXBlbGluZVJ1biBleHRlbmRzIElQaXBlbGluZVJ1biB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxfc2VydmVyX3NvdXJjZV9jb21taXQ6IHZhbHVlcy5jb21taXRJZCwK</text>
+        <text encoding="base64">ICB7fSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>view_page_title</last-search>
+      <last-search>_RUN_</last-search>
       <last-offset />
-      <last-pattern>view_page_title</last-pattern>
-      <last-replace>model_server_dao</last-replace>
-      <last-substitute>ModelServerDAO</last-substitute>
+      <last-pattern>_RUN_</last-pattern>
+      <last-replace>_TRAINING_RUN_</last-replace>
+      <last-substitute>_RUN_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Environment</entry>
-        <entry>CPU</entry>
-        <entry>\cinfo</entry>
-        <entry>console</entry>
-        <entry>endpoint</entry>
-        <entry>TODO</entry>
         <entry>FIXME</entry>
         <entry>Infobox</entry>
         <entry>commit_id</entry>
@@ -616,13 +630,14 @@
         <entry>pipeline</entry>
         <entry>\ctraining</entry>
         <entry>view_page_title</entry>
+        <entry>IPipelineRun</entry>
+        <entry>IFeature</entry>
+        <entry encoding="base64">XDxydW5zXD4=</entry>
+        <entry>_PIPELINE</entry>
+        <entry>IPipeline</entry>
+        <entry>_RUN_</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ModelServerDAO/model_server_dao/g</entry>
-        <entry>q!</entry>
-        <entry>27</entry>
-        <entry>141</entry>
-        <entry>sw</entry>
         <entry>ws</entry>
         <entry>444</entry>
         <entry>260</entry>
@@ -635,8 +650,13 @@
         <entry>357</entry>
         <entry>292</entry>
         <entry>31</entry>
+        <entry>%s/IFeature/ITraining/g</entry>
+        <entry>%s/_PIPELINE/_TRAINING_PIPELINE/g</entry>
+        <entry>%s/IPipeline/ITrainingPipeline/g</entry>
+        <entry>%s/_RUN_/_TRAINING_RUN_/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>42</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
