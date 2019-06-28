@@ -256,12 +256,12 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" timestamp="1561626927296">
-        <mark key="'" line="25" column="15" />
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="22" />
-        <mark key="^" line="40" column="22" />
+      <file name="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" timestamp="1561687214087">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/span-ui/src/actions/trainingPipeline.ts" timestamp="1561626312545">
         <mark key="'" line="19" column="8" />
@@ -342,13 +342,6 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/ViewFeatureRunPageContainer.ts" timestamp="1561626837787">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/span-ui/src/i18n.ts" timestamp="1558590683917">
         <mark key="'" line="13" column="13" />
@@ -460,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="22" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="95" column="57" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="103" column="61" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
       <jump line="133" column="36" filename="$USER_HOME$/span-ui/src/pages/trainingPipeline/view/ViewPipelinePage.tsx" />
@@ -560,6 +552,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/span-ui/src/actions/trainingRun.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" />
       <jump line="25" column="15" filename="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/span-ui/src/reducers/trainingRun.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
