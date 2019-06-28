@@ -89,6 +89,12 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="91" column="25" />
       </file>
+      <file name="$USER_HOME$/span-ui/src/actions/trainingPipelineRun.ts" timestamp="1561690638615">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+      </file>
       <file name="$USER_HOME$/span-ui/test/fixtures/runs.ts" timestamp="1558589275700">
         <mark key="'" line="191" column="0" />
         <mark key="[" line="144" column="0" />
@@ -200,19 +206,19 @@
         <mark key="." line="40" column="4" />
         <mark key="^" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/featurePipeline.ts" timestamp="1558591097068">
+      <file name="$USER_HOME$/span-ui/src/reducers/featurePipeline.ts" timestamp="1561690279233">
         <mark key="'" line="69" column="7" />
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-        <mark key="^" line="69" column="23" />
+        <mark key="[" line="129" column="34" />
+        <mark key="]" line="129" column="32" />
+        <mark key="^" line="129" column="32" />
+        <mark key="." line="129" column="32" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" timestamp="1561626019172">
+      <file name="$USER_HOME$/span-ui/src/reducers/trainingPipeline.ts" timestamp="1561690325226">
         <mark key="'" line="127" column="8" />
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="38" column="21" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="32" column="2" />
+        <mark key="." line="32" column="2" />
       </file>
       <file name="$USER_HOME$/span-ui/src/pages/featureRun/view/NoRunError.tsx" timestamp="1557194362856">
         <mark key="'" line="12" column="44" />
@@ -228,12 +234,12 @@
         <mark key="." line="127" column="78" />
         <mark key="^" line="127" column="78" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" timestamp="1561626152792">
+      <file name="$USER_HOME$/span-ui/src/reducers/__tests__/trainingPipeline.test.ts" timestamp="1561690506600">
         <mark key="'" line="40" column="59" />
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="15" column="10" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/span-ui/src/reducers/featurePipelineRun.ts" timestamp="1561626841041">
         <mark key="'" line="16" column="0" />
@@ -350,12 +356,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1561626702905">
+      <file name="$USER_HOME$/span-ui/src/services/span/api.ts" timestamp="1561690368691">
         <mark key="'" line="31" column="17" />
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="11" />
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="16" />
         <mark key="^" line="87" column="25" />
-        <mark key="." line="31" column="11" />
+        <mark key="." line="101" column="16" />
       </file>
       <file name="$USER_HOME$/span/span/domain/types.py" timestamp="1554779577422">
         <mark key="'" line="129" column="0" />
@@ -556,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBydW46IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBzdWJtaXRSdW4gPSBjcmVhdGVBc3luY0FjdGlvbigKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9SRVFVRVNUIiwKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9TVUNDRVNTIiwKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9GQUlMVVJFIgopPHZvaWQsIElUcmFpbmluZ1BpcGVsaW5lUnVuLCBJU3BhbkFwaUVycm9yPigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>trainingRun</text>
+        <text>Training</text>
       </register>
       <register name="/" type="4">
         <text>_RUN_</text>
@@ -568,31 +574,37 @@
         <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOiBuby1lbXB0eS1pbnRlcmZhY2UKZXhwb3J0IGludGVyZmFjZSBJRmVhdHVyZVBpcGVsaW5lUnVuIGV4dGVuZHMgSVBpcGVsaW5lUnVuIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW46IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBzdWJtaXRSdW4gPSBjcmVhdGVBc3luY0FjdGlvbigKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9SRVFVRVNUIiwKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9TVUNDRVNTIiwKICAiU1VCTUlUX1RSQUlOSU5HX1JVTl9GQUlMVVJFIgopPHZvaWQsIElUcmFpbmluZ1BpcGVsaW5lUnVuLCBJU3BhbkFwaUVycm9yPigpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBydW46IHVuZGVmaW5lZAo=</text>
+      <register name="2" type="8">
+        <text>trainingP
+trainingP
+trainingP
+trainingP</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBJU3BhbkFwaUVycm9yCg==</text>
+      <register name="3" type="8">
+        <text>trainingP
+trainingP
+trainingP
+trainingP</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBJVHJhaW5pbmdQaXBlbGluZVJ1biwK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJVHJhaW5pbmdQaXBlbGluZSwKICBJVHJhaW5pbmdQaXBlbGluZVJ1biwK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTogbm8tZW1wdHktaW50ZXJmYWNlCmV4cG9ydCBpbnRlcmZhY2UgSUZlYXR1cmVQaXBlbGluZVJ1biBleHRlbmRzIElQaXBlbGluZVJ1biB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nOiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7fSwK</text>
+        <text encoding="base64">ICBsYXRlc3RDb21taXQ6IHVuZGVmaW5lZCwKICBsb2FkaW5nOiBmYWxzZSwKICBsb2FkaW5nQ29tbWl0OiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
